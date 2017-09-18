@@ -85,8 +85,8 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 14 | 20.09.17 (qua) | Introdução a testes - JUnit | --- |
 | 15 | 25.09.17 (seg) | Testando Aplicativos com Espresso | --- |
 | 16 | 27.09.17 (qua) | Testando Aplicativos com UI Automator | --- |
-| 17 | 02.10.17 (seg) | Aula convidada - Testes (a confirmar) | --- |
-| 18 | 04.10.17 (qua) | Aula convidada - Testes (a confirmar) | --- |
+| 17 | 02.10.17 (seg) | Aula convidada (a confirmar) | --- |
+| 18 | 04.10.17 (qua) | Aula convidada (a confirmar) | --- |
 | 19 | 09.10.17 (seg) | Speed & Performance | --- |
 | 20 | 11.10.17 (qua) | Speed & Performance | --- |
 | 21 | 16.10.17 (seg) | Bandwidth & Memory | --- |
