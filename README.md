@@ -56,7 +56,8 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
   * Criação de Tutoriais de bibliotecas
 * Projeto (50%)
   * A nota do projeto compreende não apenas a qualidade do resultado final, mas também acompanhamentos, respeito a prazos e datas de entrega, etc. 
-
+  * [Insira seu grupo e o projeto a ser utilizado aqui](grupos.md)
+  
 - Observações:
   - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
   - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
@@ -82,26 +83,26 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 11 | 11.09.17 (seg) | Content Provider Theory and Implementation | --- |
 | 12 | 13.09.17 (qua) | System Services - Notifications, AlarmManager, PowerManager, WakeLocks, JobScheduler, Sensors | --- |
 | 13 | 18.09.17 (seg) | Location-Based Services, Fused Location, Telephony, SMS | --- |
-| 14 | 20.09.17 (qua) | Introdução a testes - JUnit | --- |
-| 15 | 25.09.17 (seg) | Testando Aplicativos com Espresso | --- |
-| 16 | 27.09.17 (qua) | Testando Aplicativos com UI Automator | --- |
-| 17 | 02.10.17 (seg) | Aula convidada (a confirmar) | --- |
-| 18 | 04.10.17 (qua) | Aula convidada (a confirmar) | --- |
-| 19 | 09.10.17 (seg) | Speed & Performance | --- |
-| 20 | 11.10.17 (qua) | Speed & Performance | --- |
-| 21 | 16.10.17 (seg) | Bandwidth & Memory | --- |
-| 22 | 18.10.17 (qua) | Battery and Power Drains | --- |
-| 23 | 23.10.17 (seg) | Anti-Patterns | --- |
-| 24 | 25.10.17 (qua) | Analisando Aplicações | --- |
-| 25 | 30.10.17 (seg) | Android Architecture Components | --- |
-| 26 | 01.11.17 (qua) | Android Architecture Components | --- |
-| 27 | 06.11.17 (seg) | Android Architecture Components | --- |
-| 28 | 08.11.17 (qua) | Android Architecture Components | --- |
-| 29 | 13.11.17 (seg) | Android Architecture Components | --- |
+| 14 | 20.09.17 (qua) | Exercício Podcast | --- |
+| 15 | 25.09.17 (seg) | Exercício Podcast | --- |
+| 16 | 27.09.17 (qua) | Exercício Podcast | --- |
+| 17 | 02.10.17 (seg) | Exercício Podcast | --- |
+| 18 | 04.10.17 (qua) | Exercício Podcast | --- |
+| 19 | 09.10.17 (seg) | Exercício Podcast | --- |
+| 20 | 11.10.17 (qua) | Testando Aplicativos com JUnit & Espresso | --- |
+| 21 | 16.10.17 (seg) | Testando Aplicativos com UI Automator | --- |
+| 22 | 18.10.17 (qua) | Speed & Performance  | --- |
+| 23 | 23.10.17 (seg) | Bandwidth  | --- |
+| 24 | 25.10.17 (qua) | Deep Dive by In Loco  | --- |
+| 25 | 30.10.17 (seg) | Memory issues | --- |
+| 26 | 01.11.17 (qua) | Automação de testes na prática | --- |
+| 27 | 06.11.17 (seg) | Battery and Power Drains | --- |
+| 28 | 08.11.17 (qua) | Anti-Patterns | --- |
+| 29 | 13.11.17 (seg) | Ferramentas de Análise | --- |
 | -- | 15.11.17 (qua) | **FERIADO** | --- |
-| 30 | 20.11.17 (seg) | Acompanhar projeto | --- |
-| 31 | 22.11.17 (qua) | Acompanhar projeto | --- |
-| 32 | 27.11.17 (seg) | Acompanhar projeto | --- |
+| 30 | 20.11.17 (seg) | Android Architecture Components | --- |
+| 31 | 22.11.17 (qua) | Android Architecture Components | --- |
+| 32 | 27.11.17 (seg) | Android Architecture Components | --- |
 | 33 | 29.11.17 (qua) | Acompanhar projeto | --- |
 | 34 | 04.12.17 (seg) | Acompanhar projeto | --- |
 | 35 | 06.12.17 (qua) | Acompanhar projeto | --- |
