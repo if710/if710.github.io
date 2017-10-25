@@ -17,3 +17,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Allyson Manoel (amnv) - (https://github.com/amnv/Ajuda-MEI.git)
 - Milena Carneiro (mscc), Walber Rodrigues (wro) - (https://github.com/Milechwan/exercicio-podcast)
 - Arthur Freitas (abf2), Túlio Cavalcanti(tpshc) - (https://github.com/Tpshc/exercicio-podcast)
+- Bruno Sampaio (bcgs) - (https://github.com/bcgs/exercicio-podcast)
