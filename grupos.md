@@ -15,3 +15,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Marcos Barreto (msb5), Leonardo Alves (las3) -  (https://github.com/msb55/projeto-android-if710)
 - Felipe Bormann (fhab) - (https://github.com/fbormann/exercicio-podcast)
 - Allyson Manoel (amnv) - (https://github.com/amnv/Ajuda-MEI.git)
+- Milena Carneiro (mscc), Walber Rodrigues (wro) - (https://github.com/Milechwan/exercicio-podcast)
