@@ -16,3 +16,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Felipe Bormann (fhab) - (https://github.com/fbormann/exercicio-podcast)
 - Allyson Manoel (amnv) - (https://github.com/amnv/Ajuda-MEI.git)
 - Milena Carneiro (mscc), Walber Rodrigues (wro) - (https://github.com/Milechwan/exercicio-podcast)
+- Bruno Sampaio (bcgs) - (https://github.com/bcgs/exercicio-podcast)
