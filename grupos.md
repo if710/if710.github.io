@@ -12,3 +12,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 
 - Nome1 (login1), Nome2 (login2) -  [link para repositório do projeto](http://github.com/repositorio)
 - Rogério Santos (rbs7), João Vicente (jpjvs) - (https://github.com/rbs7/projeto-android)
+- Felipe Bormann (fhab) - (https://github.com/fbormann/exercicio-podcast)
