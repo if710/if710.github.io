@@ -29,3 +29,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Lucas Artur (laqcs) - (https://github.com/lucazartu/linben)
 - Alexsandro Vítor (avsc), Antonio Gadelha (ajgan) - (https://github.com/Alexsandro-Vitor/exercicio-podcast)
 - Bárbara Lima (bclo), Raquel Maria (rmso) - (https://github.com/rmso/linben)
+- Hilton Pintor (hpbl), Ricardo Barioni (rrb) - (https://github.com/hpbl/exercicio-podcast)
