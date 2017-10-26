@@ -22,6 +22,7 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Bruno Melo (bhlvm), Nicola Pedulla (nrlp) - (https://github.com/nrlp50/exercicio-podcast)
 - Antônio Rodrigues (acpr), Thiago Aquino (tas4) - (https://github.com/acportela/exercicio-podcast)
 - Albertinin Mourato (ams11), Guilherme Henrique (ghps) - (https://github.com/ghpsantos/exercicio-podcast)
+- Arthur Lapprand (abl3), Danilo Ribeiro (dlr4) - (https://github.com/ArthurLapprand/exercicio-podcast)
 - Gabriel Henrique (ghds), Matheus Hermínio (mhc) - (https://github.com/Derzet/exercicio-podcast)
 - Pedro Vieira (pacv), Pedro Henrique (phrps) - (https://github.com/phrps/exercicio-podcast)
 - Alberto Sousa (avss), Hoi Yan Mark (hym) -  (https://github.com/betosousa/exercicio-podcast)
