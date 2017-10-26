@@ -22,6 +22,7 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Bruno Melo (bhlvm), Nicola Pedulla (nrlp) - (https://github.com/nrlp50/exercicio-podcast)
 - Antônio Rodrigues (acpr), Thiago Aquino (tas4) - (https://github.com/acportela/exercicio-podcast)
 - Albertinin Mourato (ams11), Guilherme Henrique (ghps) - (https://github.com/ghpsantos/exercicio-podcast)
+- Alberto Sousa (avss), Hoi Yan Mark (hym) -  (https://github.com/betosousa/exercicio-podcast)
 - Lucas Artur (laqcs) - (https://github.com/lucazartu/linben)
 - Alexsandro Vítor (avsc), Antonio Gadelha (ajgan) - (https://github.com/Alexsandro-Vitor/exercicio-podcast)
 - Bárbara Lima (bclo), Raquel Maria (rmso) - (https://github.com/rmso/linben)
