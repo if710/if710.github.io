@@ -31,3 +31,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Bárbara Lima (bclo), Raquel Maria (rmso) - (https://github.com/rmso/linben)
 - Hilton Pintor (hpbl), Ricardo Barioni (rrb) - (https://github.com/hpbl/exercicio-podcast)
 - Dicksson Oliveira (droa) - (https://github.com/dijckstra/exercicio-podcast)
+- Igor Carneiro (ics) - (https://github.com/IgorCSilva/exercicio-podcast)
