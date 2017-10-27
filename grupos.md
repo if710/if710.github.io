@@ -30,3 +30,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Alexsandro Vítor (avsc), Antonio Gadelha (ajgan) - (https://github.com/Alexsandro-Vitor/exercicio-podcast)
 - Bárbara Lima (bclo), Raquel Maria (rmso) - (https://github.com/rmso/linben)
 - Hilton Pintor (hpbl), Ricardo Barioni (rrb) - (https://github.com/hpbl/exercicio-podcast)
+- Igor Carneiro (ics) - (https://github.com/IgorCSilva/exercicio-podcast)
