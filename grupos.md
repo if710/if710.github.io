@@ -33,3 +33,4 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Dicksson Oliveira (droa) - (https://github.com/dijckstra/exercicio-podcast)
 - Igor Carneiro (ics) - (https://github.com/IgorCSilva/exercicio-podcast)
 - Eduardo Maia (ehammo), Pedro Sereno (psg2) - (https://github.com/ehammo/exercicio-podcast)
+- Marcio Mendes Cavalcanti Junior (mmcj), Paulo Henrique Muniz Barbosa (phmb3) - (https://github.com/marciojr/exercicio-podcast)
