@@ -97,12 +97,12 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 25 | 30.10.17 (seg) | Memory issues | --- |
 | 26 | 01.11.17 (qua) | Automação de testes na prática | --- |
 | 27 | 06.11.17 (seg) | Battery and Power Drains | --- |
-| 28 | 08.11.17 (qua) | Anti-Patterns | --- |
-| 29 | 13.11.17 (seg) | Ferramentas de Análise | --- |
+| 28 | 08.11.17 (qua) | Intro Android Architecture Components - Room Basics | --- |
+| 29 | 13.11.17 (seg) | Android Architecture Components | --- |
 | -- | 15.11.17 (qua) | **FERIADO** | --- |
 | 30 | 20.11.17 (seg) | Android Architecture Components | --- |
 | 31 | 22.11.17 (qua) | Android Architecture Components | --- |
-| 32 | 27.11.17 (seg) | Android Architecture Components | --- |
+| 32 | 27.11.17 (seg) | ETMF'2017 | --- |
 | 33 | 29.11.17 (qua) | Acompanhar projeto | --- |
 | 34 | 04.12.17 (seg) | Acompanhar projeto | --- |
 | 35 | 06.12.17 (qua) | Acompanhar projeto | --- |
