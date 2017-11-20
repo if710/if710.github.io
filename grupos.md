@@ -31,7 +31,7 @@ Insira seu nome ou sua dupla abaixo, coloque no seguinte formato:
 - Bárbara Lima (bclo), Raquel Maria (rmso) - (https://github.com/rmso/linben)
 - Hilton Pintor (hpbl), Ricardo Barioni (rrb) - (https://github.com/hpbl/exercicio-podcast)
 - Dicksson Oliveira (droa) - (https://github.com/dijckstra/exercicio-podcast)
-- Igor Carneiro (ics) - (https://github.com/IgorCSilva/exercicio-podcast)
+- Igor Carneiro (ics) - (https://github.com/IgorCSilva/React-Native-Module-Android)
 - Eduardo Maia (ehammo), Pedro Sereno (psg2) - (https://github.com/ehammo/exercicio-podcast)
 - Marcio Mendes Cavalcanti Junior (mmcj), Paulo Henrique Muniz Barbosa (phmb3) - (https://github.com/marciojr/exercicio-podcast)
 - Fanny Chien (fc2), Isabelly Damascena (icfd) - (https://github.com/fc2/exercicio-podcast)
