@@ -21,6 +21,9 @@ Segue o conjunto mínimo de tarefas esperadas como resultado do projeto:
 04. Refatore o código do app para aplicação de _Architecture Components_, trocando a forma de acesso ao banco de dados para usar `Room`. Crie também ao menos um caso de uso de `LiveData`.
 05. Registre todos os passos realizados em arquivos .MD a serem disponibilizados no repositório do seu projeto, sendo um para cada tópico, ou seja: 
 
+
+| Tópico | Nome do Arquivo |
+| ------ | ------ |
 | Testes | testes.md |
 | CPU & Performance | cpu.md |
 | Consumo de Rede | bandwidth.md |
@@ -28,6 +31,7 @@ Segue o conjunto mínimo de tarefas esperadas como resultado do projeto:
 | Bateria | bateria.md |
 | Memória | bandwidth.md |
 | _Architecture Components_ | archcomponents.md |
+
 
 ### Grupos
 
