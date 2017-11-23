@@ -29,7 +29,6 @@ Segue o conjunto mínimo de tarefas esperadas como resultado do projeto:
 | Consumo de Rede | bandwidth.md |
 | Memória | memoria.md |
 | Bateria | bateria.md |
-| Memória | bandwidth.md |
 | _Architecture Components_ | archcomponents.md |
 
 
