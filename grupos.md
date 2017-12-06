@@ -59,4 +59,4 @@ Insira seu nome ou sua dupla abaixo:
 - Igor Carneiro (ics) - (https://github.com/IgorCSilva/React-Native-Module-Android)
 - Eduardo Maia (ehammo), Pedro Sereno (psg2) - (https://github.com/ehammo/exercicio-podcast)
 - Marcio Mendes Cavalcanti Junior (mmcj), Paulo Henrique Muniz Barbosa (phmb3) - (https://github.com/marciojr/exercicio-podcast)
-- Fanny Chien (fc2), Isabelly Damascena (icfd) - (https://github.com/fc2/exercicio-podcast)
+- Fanny Chien (fc2), Isabelly Damascena (icfd) - (https://github.com/fc2/palpitadus-android-project)
