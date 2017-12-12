@@ -36,7 +36,7 @@ Segue o conjunto mínimo de tarefas esperadas como resultado do projeto:
 
 Insira seu nome ou sua dupla abaixo: 
 
-- Rogério Santos (rbs7), João Vicente (jpjvs) - (https://github.com/rbs7/projeto-android)
+- Rogério Santos (rbs7), João Vicente (jpjvs) - (https://github.com/rbs7/Podcast)
 - Marcos Barreto (msb5), Leonardo Alves (las3) -  (https://github.com/msb55/projeto-android-if710)
 - Felipe Bormann (fhab) - (https://github.com/fbormann/exercicio-podcast)
 - Allyson Manoel (amnv) - (https://github.com/amnv/Ajuda-MEI.git)
