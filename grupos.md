@@ -43,7 +43,7 @@ Insira seu nome ou sua dupla abaixo:
 - Milena Carneiro (mscc), Walber Rodrigues (wro) - (https://github.com/Milechwan/exercicio-podcast)
 - Arthur Freitas (abf2), Túlio Cavalcanti (tpshc) - (https://github.com/Tpshc/exercicio-podcast)
 - Bruno Sampaio (bcgs) - (https://github.com/bcgs/exercicio-podcast)
-- Daniel Maida (dfm2), Filipe Jordão (fnj2) - (https://github.com/DanielMaida/exercicio-podcast)
+- Daniel Maida (dfm2), Filipe Jordão (fnj2) - (https://github.com/FilipeJrd/exercicio-podcast)
 - Bruno Melo (bhlvm), Nicola Pedulla (nrlp) - (https://github.com/nrlp50/exercicio-podcast)
 - Antônio Rodrigues (acpr), Thiago Aquino (tas4) - (https://github.com/acportela/exercicio-podcast)
 - Albertinin Mourato (ams11), Guilherme Henrique (ghps) - (https://github.com/ghpsantos/exercicio-podcast)
