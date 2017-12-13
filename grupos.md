@@ -51,7 +51,7 @@ Insira seu nome ou sua dupla abaixo:
 - Gabriel Henrique (ghds), Matheus Hermínio (mhc) - (https://github.com/Derzet/exercicio-podcast)
 - Pedro Vieira (pacv), Pedro Henrique (phrps) - (https://github.com/phrps/exercicio-podcast)
 - Alberto Sousa (avss), Hoi Yan Mark (hym) -  (https://github.com/betosousa/exercicio-podcast)
-- Lucas Artur (laqcs), Isaac Douglas (idrn) - (https://github.com/lucazartu/linben)
+- Lucas Artur (laqcs), Isaac Douglas (idrn) - (https://github.com/IsaacDouglas/exercicio-podcast)
 - Alexsandro Vítor (avsc), Antonio Gadelha (ajgan) - (https://github.com/Alexsandro-Vitor/exercicio-podcast)
 - Bárbara Lima (bclo), Raquel Maria (rmso) - (https://github.com/rmso/linben)
 - Hilton Pintor (hpbl), Ricardo Barioni (rrb) - (https://github.com/hpbl/exercicio-podcast)
