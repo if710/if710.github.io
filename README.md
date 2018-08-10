@@ -9,8 +9,8 @@
   
 ### Horário e Local de Aulas
 
-* Segunda (8h-10h), E112 
-* Quarta (10h-12h), E112 
+* Quarta (8h-10h), E112 
+* Sexta (10h-12h), E112 
 
 ### Ementa
 
@@ -20,8 +20,10 @@ Este curso explora diversos princípios de desenvolvimento de aplicações para 
 
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros, sites, e newsletters que podem ser recomendados:
 
-- [The Busy Coder’s Guide to Android Development](https://commonsware.com/Android/)
-- [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
+- [The Busy Coder’s Guide to Android Development - Mark Murphy](https://commonsware.com/Android/)
+- [Android Programming: The Big Nerd Ranch Guide - Bill Phillips, Chris Stewart, Kristin Marsicano](https://www.bignerdranch.com/books/android-programming/)
+- [Kotlin for Android Developers - Antonio Leiva](https://antonioleiva.com/kotlin-android-developers-book/)
+- [Kotlin in Action - Dmitry Jemerov, Svetlana Isakova](https://www.manning.com/books/kotlin-in-action)
 - [Android Weekly](http://androidweekly.net)
 - [Android Reference](http://developer.android.com)
 - [Android Developers Blog](http://android-developers.blogspot.com)
@@ -38,11 +40,12 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros, si
 
 ### Metodologia
 
-Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aulas práticas e tarefas de programação para casa. 
+Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e tarefas de programação em sala de aula e para casa. 
 
 ### Recursos
 
 - [Slack](http://if710.slack.com)
+- [Google Classroom](http://classroom.google.com) - Código: 9r6jm5
 
 #### Ferramentas
 
@@ -68,43 +71,41 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 **Atenção!** 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-| # | Data | Assunto | Recursos |
-|:---:|:----:|:----------------------|:--------:|
-| 01 | 07.08.17 (seg) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
-| 02 | 09.08.17 (qua) | Conceitos Básicos de Projetos Android - Widgets e UI | --- |
-| 03 | 14.08.17 (seg) | AdapterViews, RecyclerView | --- |
-| 04 | 16.08.17 (qua) | Android Process Model, Activities & Activity Lifecycle, Intents | --- |
-| 05 | 21.08.17 (seg) | Threads, AsyncTasks, Permissions | --- |
-| 06 | 23.08.17 (qua) | **Não haverá aula** | --- |
-| 07 | 28.08.17 (seg) | Services | --- |
-| 08 | 30.08.17 (qua) | Broadcast Receivers | --- |
-| 09 | 04.09.17 (seg) | Data Management - Assets, Files, SharedPreferences	 | --- |
-| 10 | 06.09.17 (qua) | SQLite | --- |
-| 11 | 11.09.17 (seg) | Content Provider Theory and Implementation | --- |
-| 12 | 13.09.17 (qua) | System Services - Notifications, AlarmManager, PowerManager, WakeLocks, JobScheduler, Sensors | --- |
-| 13 | 18.09.17 (seg) | Location-Based Services, Fused Location, Telephony, SMS | --- |
-| 14 | 20.09.17 (qua) | Exercício Podcast | --- |
-| 15 | 25.09.17 (seg) | Exercício Podcast | --- |
-| 16 | 27.09.17 (qua) | Exercício Podcast | --- |
-| 17 | 02.10.17 (seg) | Exercício Podcast | --- |
-| 18 | 04.10.17 (qua) | Exercício Podcast | --- |
-| 19 | 09.10.17 (seg) | Exercício Podcast | --- |
-| 20 | 11.10.17 (qua) | Testando Aplicativos com JUnit & Espresso | --- |
-| 21 | 16.10.17 (seg) | Testando Aplicativos com UI Automator | --- |
-| 22 | 18.10.17 (qua) | Speed & Performance  | --- |
-| 23 | 23.10.17 (seg) | Bandwidth  | --- |
-| 24 | 25.10.17 (qua) | Deep Dive by In Loco  | --- |
-| 25 | 30.10.17 (seg) | Memory issues | --- |
-| 26 | 01.11.17 (qua) | Automação de testes na prática | --- |
-| 27 | 06.11.17 (seg) | Battery and Power Drains | --- |
-| 28 | 08.11.17 (qua) | Intro Android Architecture Components - Room Basics | --- |
-| 29 | 13.11.17 (seg) | Android Architecture Components - Room & Lifecycle | --- |
-| -- | 15.11.17 (qua) | **FERIADO** | --- |
-| 30 | 20.11.17 (seg) | Android Architecture Components - LiveData & ViewModel | --- |
-| 31 | 22.11.17 (qua) | Acompanhar projeto | --- |
-| 32 | 27.11.17 (seg) | ETMF'2017 | --- |
-| 33 | 29.11.17 (qua) | SBMF'2017 | --- |
-| 34 | 04.12.17 (seg) | Acompanhar projeto | --- |
-| 35 | 06.12.17 (qua) | Acompanhar projeto | --- |
-| 36 | 11.12.17 (seg) | Acompanhar projeto | --- |
-| 37 | 13.12.17 (qua) | Data limite entrega projeto | --- |
+| # | Data | Assunto | Atividades |
+|:---:|:----:|:----------------------:|:----------------------|
+| 01 | 15.08.18 (qua) | [Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis](#) | --- |
+| 02 | 17.08.18 (sex) | [Kotlin Basics](#) | --- |
+| 03 | 22.08.18 (qua) | [Conceitos Básicos de Projetos Android - UI](#) | --- |
+| 04 | 24.08.18 (sex) | [AdapterViews, RecyclerView](#) | --- |
+| 05 | 29.08.18 (qua) | [Interação entre telas, ciclo de vida, intents](#) | --- |
+| 06 | 31.08.18 (sex) | [Threads, AsyncTasks, Permissions](#) | --- |
+| 07 | 05.09.18 (qua) | [Exercício](#) | --- |
+| -- | 07.09.18 (sex) | **FERIADO - Dia da Independência** | --- |
+| 08 | 12.09.18 (qua) | [Services](#) | --- |
+| 09 | 14.09.18 (sex) | [BroadcastReceivers & System Services](#) | --- |
+| 10 | 19.09.18 (qua) | [Exercício](#) | --- |
+| 11 | 21.09.18 (sex) | [Exercício](#) | --- |
+| 12 | 26.09.18 (qua) | [Data Management](#) | --- |
+| 13 | 28.09.18 (sex) | [Design Patterns](#) | --- |
+| 14 | 03.10.18 (qua) | [Design Patterns](#) | --- |
+| 15 | 05.10.18 (sex) | [APIs e Bibliotecas Externas úteis](#) | --- |
+| 16 | 10.10.18 (qua) | [Aula convidada (a confirmar)](#) | --- |
+| -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
+| 17 | 17.10.18 (qua) | [Processamento e Desempenho](#) | --- |
+| 18 | 19.10.18 (sex) | [Memória](#) | --- |
+| 19 | 24.10.18 (qua) | [Energia](#) | --- |
+| 20 | 26.10.18 (sex) | [Consumo de Rede](#) | --- |
+| 21 | 31.10.18 (qua) | [Aula convidada (a confirmar)](#) | --- |
+| -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
+| 22 | 07.11.18 (qua) | [Testes](#) | --- |
+| 23 | 09.11.18 (sex) | [Testes](#) | --- |
+| 24 | 14.11.18 (qua) | [Acompanhar projeto](#) | --- |
+| 25 | 16.11.18 (sex) | [Acompanhar projeto](#) | --- |
+| 26 | 21.11.18 (qua) | [Acompanhar projeto](#) | --- |
+| 27 | 23.11.18 (sex) | [Acompanhar projeto](#) | --- |
+| 28 | 28.11.18 (qua) | [Acompanhar projeto](#) | --- |
+| 29 | 30.11.18 (sex) | [Acompanhar projeto](#) | --- |
+| 30 | 05.12.18 (qua) | [Acompanhar projeto](#) | --- |
+| 31 | 07.12.18 (sex) | [Acompanhar projeto](#) | --- |
+| 32 | 12.12.18 (qua) | **Entrega do Projeto**  | --- |
+| 33 | 14.12.18 (sex) | **Entrega do Projeto**  | --- |
