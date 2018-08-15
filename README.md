@@ -73,7 +73,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | # | Data | Assunto | Atividades |
 |:---:|:----:|:----------------------:|:----------------------|
-| 01 | 15.08.18 (qua) | [Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis](#) | --- |
+| 01 | 15.08.18 (qua) | [Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis](https://drive.google.com/open?id=1lwQVmKG9n-Dxbf9yufIt5sIkqx7Zi_jb) | --- |
 | 02 | 17.08.18 (sex) | [Kotlin Basics](#) | --- |
 | 03 | 22.08.18 (qua) | [Conceitos Básicos de Projetos Android - UI](#) | --- |
 | 04 | 24.08.18 (sex) | [AdapterViews, RecyclerView](#) | --- |
