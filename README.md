@@ -74,12 +74,12 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | # | Data | Assunto | Atividades |
 |:---:|:----:|:----------------------:|:----------------------|
 | 01 | 15.08.18 (qua) | [Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis](#) | --- |
-| 02 | 17.08.18 (sex) | [Kotlin Basics](#) | --- |
+| 02 | 17.08.18 (sex) | [Kotlin Basics](https://github.com/if710/kotlin-in-action) | --- |
 | 03 | 22.08.18 (qua) | [Conceitos Básicos de Projetos Android - UI](#) | --- |
 | 04 | 24.08.18 (sex) | [AdapterViews, RecyclerView](#) | --- |
-| 05 | 29.08.18 (qua) | [Interação entre telas, ciclo de vida, intents](#) | --- |
+| 05 | 29.08.18 (qua) | [Interação entre telas, ciclo de vida, intents](#) | [Exercício 1 lançado](https://github.com/if710/exercicio-calculadora) |
 | 06 | 31.08.18 (sex) | [Threads, AsyncTasks, Permissions](#) | --- |
-| 07 | 05.09.18 (qua) | [Exercício](#) | --- |
+| 07 | 05.09.18 (qua) | [Exercício 2 lançado - Aula dedicada a praticar](#) | *Deadline para entrega do Exercício 1* |
 | -- | 07.09.18 (sex) | **FERIADO - Dia da Independência** | --- |
 | 08 | 12.09.18 (qua) | [Services](#) | --- |
 | 09 | 14.09.18 (sex) | [BroadcastReceivers & System Services](#) | --- |
@@ -88,8 +88,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 12 | 26.09.18 (qua) | [Data Management](#) | --- |
 | 13 | 28.09.18 (sex) | [Design Patterns](#) | --- |
 | 14 | 03.10.18 (qua) | [Design Patterns](#) | --- |
-| 15 | 05.10.18 (sex) | [APIs e Bibliotecas Externas úteis](#) | --- |
-| 16 | 10.10.18 (qua) | [Aula convidada (a confirmar)](#) | --- |
+| 15 | 05.10.18 (sex) | [Desenvolvendo um SDK Mobile (In Loco Media)](#) | --- |
+| 16 | 10.10.18 (qua) | [APIs e Bibliotecas Externas úteis](#) | --- |
 | -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
 | 17 | 17.10.18 (qua) | [Processamento e Desempenho](#) | --- |
 | 18 | 19.10.18 (sex) | [Memória](#) | --- |
