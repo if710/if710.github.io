@@ -79,13 +79,13 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 04 | 24.08.18 (sex) | [AdapterViews, RecyclerView](#) | --- |
 | 05 | 29.08.18 (qua) | [Interação entre telas, ciclo de vida, intents](#) | [Exercício 1 lançado](https://github.com/if710/exercicio-calculadora) |
 | 06 | 31.08.18 (sex) | [Threads, AsyncTasks, Permissions](#) | --- |
-| 07 | 05.09.18 (qua) | [Exercício 2 lançado - Aula dedicada a praticar](#) | *Deadline para entrega do Exercício 1* |
+| 07 | 05.09.18 (qua) | [Exercício 2 lançado - Aula dedicada a praticar](https://github.com/if710/exercicio-rss) | *Deadline para entrega do Exercício 1* |
 | -- | 07.09.18 (sex) | **FERIADO - Dia da Independência** | --- |
 | 08 | 12.09.18 (qua) | [Services](#) | --- |
-| 09 | 14.09.18 (sex) | [BroadcastReceivers & System Services](#) | --- |
-| 10 | 19.09.18 (qua) | [Exercício](#) | --- |
-| 11 | 21.09.18 (sex) | [Exercício](#) | --- |
-| 12 | 26.09.18 (qua) | [Data Management](#) | --- |
+| 09 | 14.09.18 (sex) | [Data Management](#) | --- |
+| 10 | 19.09.18 (qua) | [Exercício 3 lançado - Aula dedicada a praticar](#) | --- |
+| 11 | 21.09.18 (sex) | [Tirar Dúvidas - Exercícios](#) | --- |
+| 12 | 26.09.18 (qua) | [BroadcastReceivers & System Services](#) | --- |
 | 13 | 28.09.18 (sex) | [Design Patterns](#) | --- |
 | 14 | 03.10.18 (qua) | [Design Patterns](#) | --- |
 | 15 | 05.10.18 (sex) | [Desenvolvendo um SDK Mobile (In Loco Media)](#) | --- |
