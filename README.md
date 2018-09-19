@@ -83,10 +83,11 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | -- | 07.09.18 (sex) | **FERIADO - Dia da Independência** | --- |
 | 08 | 12.09.18 (qua) | [Services](#) | --- |
 | 09 | 14.09.18 (sex) | [Data Management](#) | --- |
-| 10 | 19.09.18 (qua) | [Exercício 3 lançado - Aula dedicada a praticar](#) | --- |
+| 10 | 19.09.18 (qua) | [Exercício 3 lançado - Aula dedicada a praticar](https://github.com/if710/exercicio-rss) | *Deadline para entrega do Exercício 2* |
 | 11 | 21.09.18 (sex) | [Tirar Dúvidas - Exercícios](#) | --- |
 | 12 | 26.09.18 (qua) | [BroadcastReceivers & System Services](#) | --- |
 | 13 | 28.09.18 (sex) | [Design Patterns](#) | --- |
+| -- | 30.09.18 (dom) | *Deadline para entrega do Exercício 3* | --- |
 | 14 | 03.10.18 (qua) | [Design Patterns](#) | --- |
 | 15 | 05.10.18 (sex) | [Desenvolvendo um SDK Mobile (In Loco Media)](#) | --- |
 | 16 | 10.10.18 (qua) | [APIs e Bibliotecas Externas úteis](#) | --- |
