@@ -88,15 +88,15 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 12 | 26.09.18 (qua) | [System Services](#) | --- |
 | 13 | 28.09.18 (sex) | [Exercício 3 & Proposta de Projeto](#) | --- |
 | -- | 30.09.18 (dom) | *Deadline para entrega do Exercício 3* | --- |
-| 14 | 03.10.18 (qua) | [Design Patterns](#) | --- |
+| 14 | 03.10.18 (qua) | [Content Providers](#) | --- |
 | 15 | 05.10.18 (sex) | [Desenvolvendo um SDK Mobile (In Loco Media)](#) | --- |
-| 16 | 10.10.18 (qua) | [APIs e Bibliotecas Externas úteis](#) | --- |
+| 16 | 10.10.18 (qua) | [Design Patterns, APIs e bibliotecas úteis](#) | --- |
 | -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
 | 17 | 17.10.18 (qua) | [Processamento e Desempenho](#) | --- |
 | 18 | 19.10.18 (sex) | [Memória](#) | --- |
 | 19 | 24.10.18 (qua) | [Energia](#) | --- |
 | 20 | 26.10.18 (sex) | [Consumo de Rede](#) | --- |
-| 21 | 31.10.18 (qua) | [Aula convidada (a confirmar)](#) | --- |
+| 21 | 31.10.18 (qua) | [Aula convidada - Liferay](#) | --- |
 | -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
 | 22 | 07.11.18 (qua) | [Testes](#) | --- |
 | 23 | 09.11.18 (sex) | [Testes](#) | --- |
