@@ -92,14 +92,14 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 15 | 05.10.18 (sex) | [Desenvolvendo um SDK Mobile (In Loco Media)](#) | --- |
 | 16 | 10.10.18 (qua) | [Design Patterns, APIs e bibliotecas úteis](#) | --- |
 | -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
-| 17 | 17.10.18 (qua) | [Processamento e Desempenho](#) | --- |
-| 18 | 19.10.18 (sex) | [Memória](#) | --- |
-| 19 | 24.10.18 (qua) | [Energia](#) | --- |
-| 20 | 26.10.18 (sex) | [Consumo de Rede](#) | --- |
-| 21 | 31.10.18 (qua) | [Aula convidada - Liferay](#) | --- |
+| 17 | 17.10.18 (qua) | [Architecture Components](#) | --- |
+| 18 | 19.10.18 (sex) | [Processamento e Desempenho](#) | --- |
+| 19 | 24.10.18 (qua) | [Memória](#) | --- |
+| 20 | 26.10.18 (sex) | [Atividade 2 do projeto](#) | --- |
+| 21 | 31.10.18 (qua) | [Energia e Consumo de Rede](#) | --- |
 | -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
 | 22 | 07.11.18 (qua) | [Testes](#) | --- |
-| 23 | 09.11.18 (sex) | [Testes](#) | --- |
+| 23 | 09.11.18 (sex) | [Aula convidada - a confirmar](#) | --- |
 | 24 | 14.11.18 (qua) | [Acompanhar projeto](#) | --- |
 | 25 | 16.11.18 (sex) | [Acompanhar projeto](#) | --- |
 | 26 | 21.11.18 (qua) | [Acompanhar projeto](#) | --- |
