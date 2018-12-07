@@ -99,7 +99,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 21 | 31.10.18 (qua) | [Energia e Consumo de Rede](#) | --- |
 | -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
 | 22 | 07.11.18 (qua) | [Testes](#) | --- |
-| 23 | 09.11.18 (sex) | [Aula convidada - a confirmar](#) | --- |
+| 23 | 09.11.18 (sex) | [Acompanhar projeto](#) | --- |
 | 24 | 14.11.18 (qua) | [Acompanhar projeto](#) | --- |
 | 25 | 16.11.18 (sex) | [Acompanhar projeto](#) | --- |
 | 26 | 21.11.18 (qua) | [Acompanhar projeto](#) | --- |
@@ -108,5 +108,5 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 29 | 30.11.18 (sex) | [Acompanhar projeto](#) | --- |
 | 30 | 05.12.18 (qua) | [Acompanhar projeto](#) | --- |
 | 31 | 07.12.18 (sex) | [Acompanhar projeto](#) | --- |
-| 32 | 12.12.18 (qua) | **Entrega do Projeto**  | --- |
+| 32 | 12.12.18 (qua) | [Acompanhar projeto](#) | --- |
 | 33 | 14.12.18 (sex) | **Entrega do Projeto**  | --- |
