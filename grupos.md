@@ -17,7 +17,7 @@ no mesmo.
 *Tarefas opcionais:* 
 
 01. Crie uma suíte de testes para o seu app usando JUnit para testar classes isoladamente e Espresso ou uiautomator (escolha um) para testes de integração e interface. [Algumas dicas aqui](https://developer.android.com/studio/test/index.html).
-02. Refatore o código do app para aplicação de _Architecture Components_, trocando a forma de acesso ao banco de dados para usar `Room`. Crie também ao menos um caso de uso de `LiveData`.
+02. Refatore o código do app para aplicação de _Architecture Components_, por exemplo, trocando a forma de acesso ao banco de dados para usar `Room`. Crie também ao menos um caso de uso de `LiveData` ou use `ViewModel`. 
 
 *Relatório*
 
