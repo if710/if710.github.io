@@ -14,7 +14,7 @@
 
 ### Ementa
 
-Este curso explora princípios de desenvolvimento de aplicações para dispositivos móveis, usando a plataforma Android como estudo de caso.
+Este curso explora diversos princípios de desenvolvimento de aplicações para dispositivos móveis, usando a plataforma Android como estudo de caso.
 
 ### Bibliografia Sugerida
 
@@ -45,6 +45,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 ### Recursos
 
 - [Slack](http://if710.slack.com)
+- [Google Classroom](http://classroom.google.com) - Código: 9r6jm5
 
 #### Ferramentas
 
@@ -52,12 +53,13 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Avaliação
 
-* Exercícios diversos (20%)
-  * Criação de pequenos apps durante a disciplina
-* Seminários em sala de aula (30%)
-  * Apresentação e discussão de temas relacionados a desenvolvimento móvel
+* Exercícios diversos (50%)
+  * Criação e avaliação de pequenos apps
+  * Uso de ferramentas de análise de apps
+  * Criação de Tutoriais de bibliotecas
 * Projeto (50%)
   * A nota do projeto compreende não apenas a qualidade do resultado final, mas também acompanhamentos, respeito a prazos e datas de entrega, etc. 
+  * [Insira seu grupo e o projeto a ser utilizado aqui](grupos.md)
   
 - Observações:
   - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
@@ -71,40 +73,40 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | # | Data | Assunto | Atividades |
 |:---:|:----:|:----------------------:|:----------------------|
-| 01 | 07.08.19 (qua) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
-| 02 | 09.08.19 (sex) | Kotlin & Android Basics | --- |
-| 03 | 14.08.19 (qua) | Layout Managers e Widgets UI | [Exercício 1 lançado](#) |
-| 04 | 16.08.19 (sex) | RecyclerView | --- |
-| 05 | 21.08.19 (qua) | Ciclo de Vida, ViewModel, Processos | *Deadline para entrega do Exercício 1* |
-| 06 | 23.08.19 (sex) | DataBinding, Intents | --- |
-| 07 | 28.08.19 (qua) | Threads & LiveData | [Exercício 1 lançado](https://github.com/if710/exercicio-calculadora) |
-| 08 | 30.08.19 (sex) | Arquitetura MVx | --- |
-| 09 | 04.09.19 (qua) | Data Management - Preferences and Room | --- |
-| 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](#) | --- |
-| 11 | 11.09.19 (qua) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
-| 12 | 13.09.19 (sex) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
-| 13 | 18.09.19 (qua) | Services & BroadcastReceivers | *Deadline para entrega do Exercício 2* |
-| 14 | 20.09.19 (sex) | Estilos Arquiteturais | [Exercício 3 lançado](#) | |
-| 15 | 25.09.19 (qua) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
-| 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
-| 17 | 02.10.19 (qua) | Processamento e Desempenho | --- |
-| 18 | 04.10.19 (sex) | Memória | --- |
-| 19 | 09.10.19 (qua) | Energia | --- |
-| 20 | 11.10.19 (sex) | Consumo de Rede | --- |
-| 21 | 16.10.19 (qua) | Testes | --- |
-| 22 | 18.10.19 (sex) | Testes | --- |
-| 23 | 23.10.19 (qua) | Privacidade | --- |
-| 24 | 25.10.19 (sex) | Segurança | --- |
-| 25 | 30.10.19 (qua) | Suporte ferramental, abordagens alternativas de programação | --- |
-| 26 | 01.11.19 (sex) | Cross-platform development | --- |
-| 27 | 06.11.19 (qua) | Acompanhar projeto | --- |
-| 28 | 08.11.19 (sex) | Acompanhar projeto | --- |
-| 29 | 13.11.19 (qua) | Acompanhar projeto | --- |
-| -- | 15.11.19 (sex) | **FERIADO - Proclamação da República** | --- |
-| 30 | 20.11.19 (qua) | Acompanhar projeto | --- |
-| 31 | 22.11.19 (sex) | Acompanhar projeto | --- |
-| 32 | 27.11.19 (qua) | Acompanhar projeto | --- |
-| 33 | 29.11.19 (sex) | Acompanhar projeto | --- |
-| 34 | 04.12.19 (qua) | Acompanhar projeto | --- |
-| 35 | 06.12.19 (sex) | Acompanhar projeto | --- |
-| 36 | 11.12.19 (qua) | **Entrega do Projeto**  | --- |
+| 01 | 15.08.18 (qua) | [Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis](https://drive.google.com/open?id=1lwQVmKG9n-Dxbf9yufIt5sIkqx7Zi_jb) | --- |
+| 02 | 17.08.18 (sex) | [Kotlin Basics](https://github.com/if710/kotlin-in-action) | --- |
+| 03 | 22.08.18 (qua) | [Conceitos Básicos de Projetos Android - UI](#) | --- |
+| 04 | 24.08.18 (sex) | [AdapterViews, RecyclerView](#) | --- |
+| 05 | 29.08.18 (qua) | [Interação entre telas, ciclo de vida, intents](#) | [Exercício 1 lançado](https://github.com/if710/exercicio-calculadora) |
+| 06 | 31.08.18 (sex) | [Threads, AsyncTasks, Permissions](#) | --- |
+| 07 | 05.09.18 (qua) | [Exercício 2 lançado - Aula dedicada a praticar](https://github.com/if710/exercicio-rss) | *Deadline para entrega do Exercício 1* |
+| -- | 07.09.18 (sex) | **FERIADO - Dia da Independência** | --- |
+| 08 | 12.09.18 (qua) | [Services](#) | --- |
+| 09 | 14.09.18 (sex) | [Data Management](#) | --- |
+| 10 | 19.09.18 (qua) | [Exercício 3 lançado - Aula dedicada a praticar](https://github.com/if710/exercicio-rss-2) | *Deadline para entrega do Exercício 2* |
+| 11 | 21.09.18 (sex) | [BroadcastReceivers](#) | --- |
+| 12 | 26.09.18 (qua) | [System Services](#) | --- |
+| 13 | 28.09.18 (sex) | [Exercício 3 & Proposta de Projeto](#) | --- |
+| -- | 30.09.18 (dom) | *Deadline para entrega do Exercício 3* | --- |
+| 14 | 03.10.18 (qua) | [Content Providers](#) | --- |
+| 15 | 05.10.18 (sex) | [Desenvolvendo um SDK Mobile (In Loco Media)](#) | --- |
+| 16 | 10.10.18 (qua) | [Design Patterns, APIs e bibliotecas úteis](#) | --- |
+| -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
+| 17 | 17.10.18 (qua) | [Architecture Components](#) | --- |
+| 18 | 19.10.18 (sex) | [Processamento e Desempenho](#) | --- |
+| 19 | 24.10.18 (qua) | [Memória](#) | --- |
+| 20 | 26.10.18 (sex) | [Atividade 2 do projeto](#) | --- |
+| 21 | 31.10.18 (qua) | [Energia e Consumo de Rede](#) | --- |
+| -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
+| 22 | 07.11.18 (qua) | [Testes](#) | --- |
+| 23 | 09.11.18 (sex) | [Acompanhar projeto](#) | --- |
+| 24 | 14.11.18 (qua) | [Acompanhar projeto](#) | --- |
+| 25 | 16.11.18 (sex) | [Acompanhar projeto](#) | --- |
+| 26 | 21.11.18 (qua) | [Acompanhar projeto](#) | --- |
+| 27 | 23.11.18 (sex) | [Acompanhar projeto](#) | --- |
+| 28 | 28.11.18 (qua) | [Acompanhar projeto](#) | --- |
+| 29 | 30.11.18 (sex) | [Acompanhar projeto](#) | --- |
+| 30 | 05.12.18 (qua) | [Acompanhar projeto](#) | --- |
+| 31 | 07.12.18 (sex) | [Acompanhar projeto](#) | --- |
+| 32 | 12.12.18 (qua) | [Acompanhar projeto](#) | --- |
+| 33 | 14.12.18 (sex) | **Entrega do Projeto**  | --- |
