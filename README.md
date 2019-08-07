@@ -71,7 +71,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | # | Data | Assunto | Atividades |
 |:---:|:----:|:----------------------:|:----------------------|
-| 01 | 07.08.19 (qua) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
+| 01 | 07.08.19 (qua) | [Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis](https://drive.google.com/open?id=1EC7Cp63AqhdSrVS306E9rE5rzeSUOo5j) | --- |
 | 02 | 09.08.19 (sex) | Kotlin & Android Basics | --- |
 | 03 | 14.08.19 (qua) | Layout Managers e Widgets UI | [Exercício 1 lançado](#) |
 | 04 | 16.08.19 (sex) | RecyclerView | --- |
