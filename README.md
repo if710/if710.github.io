@@ -77,7 +77,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 04 | 16.08.19 (sex) | RecyclerView | --- |
 | 05 | 21.08.19 (qua) | Ciclo de Vida, ViewModel, Processos | *Deadline para entrega do Exercício 1* |
 | 06 | 23.08.19 (sex) | DataBinding, Intents | --- |
-| 07 | 28.08.19 (qua) | Threads & LiveData | [Exercício 1 lançado](https://github.com/if710/exercicio-calculadora) |
+| 07 | 28.08.19 (qua) | Threads & LiveData | --- |
 | 08 | 30.08.19 (sex) | Arquitetura MVx | --- |
 | 09 | 04.09.19 (qua) | Data Management - Preferences and Room | --- |
 | 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](#) | --- |
