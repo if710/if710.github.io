@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+            android:id="@+id/texto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="Alguma coisa"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBaseline_toBaselineOf="@id/botao"
+    />
+
+
+
+    <Button
+            android:id="@+id/botao"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Clique em mim"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toEndOf="@id/texto"
+            app:layout_constraintEnd_toEndOf="parent"
+    />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

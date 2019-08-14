@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="log_default">Clique em algum widget!</string>
+    <string name="icon_caption">Ícone do App</string>
+    <string name="button_caption">Botão com Ícone do App</string>
+    <string name="icon_clicked">Ícone clicado!</string>
+    <string name="button_clicked">Botão clicado!</string>
+    <string name="switch_caption">Clique em mim!</string>
+    <string name="checkbox_caption">Ei, clique em mim!</string>
+    <string name="switch_checked">Switch ativado!</string>
+    <string name="switch_unchecked">Switch desativado!</string>
+    <string name="checkbox_checked">CheckBox marcado!</string>
+    <string name="checkbox_unchecked">CheckBox desmarcado!</string>
+    <string name="radiobutton1_caption">Sport</string>
+    <string name="radiobutton2_caption">Náutico</string>
+    <string name="radiobutton3_caption">Santa Cruz</string>
+    <string name="radiobutton1_checked">Sport escolhido!</string>
+    <string name="radiobutton2_checked">Náutico escolhido!</string>
+    <string name="radiobutton3_checked">Santa Cruz escolhido!</string>
+    <string name="seekbar_changed">SeekBar mudou para %d!</string>
+</resources>
