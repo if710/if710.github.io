@@ -73,8 +73,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 |:---:|:----:|:----------------------:|:----------------------|
 | 01 | 07.08.19 (qua) | [Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis](https://drive.google.com/open?id=1EC7Cp63AqhdSrVS306E9rE5rzeSUOo5j) | --- |
 | 02 | 09.08.19 (sex) | [Kotlin & Android Basics](2019-08-09/) | --- |
-| 03 | 14.08.19 (qua) | Layout Managers e Widgets UI | [Exercício 1 lançado](#) |
-| 04 | 16.08.19 (sex) | RecyclerView | --- |
+| 03 | 14.08.19 (qua) | [Layout Managers e Widgets UI](2019-08-14/) | --- |
+| 04 | 16.08.19 (sex) | RecyclerView | [Exercício 1 lançado](#) |
 | 05 | 21.08.19 (qua) | Ciclo de Vida, ViewModel, Processos | *Deadline para entrega do Exercício 1* |
 | 06 | 23.08.19 (sex) | DataBinding, Intents | --- |
 | 07 | 28.08.19 (qua) | Threads & LiveData | --- |
