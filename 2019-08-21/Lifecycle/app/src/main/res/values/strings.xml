@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="d_title">O que foi digitado?</string>
+    <string name="d_msg">Alguma mensagem</string>
+</resources>

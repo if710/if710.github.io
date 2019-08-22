@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/campoTexto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/botaoAdicionaTexto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Faz alguma coisa" />
+
+    <TextView
+        android:id="@+id/textoDigitado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Nao digitou nada..."
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/botaoDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abre Dialog" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/lifecycleLog"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="5dp"
+            android:textSize="20sp"
+            android:text="..." />
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:text="Explicito - lifecycle" />
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:text="Implicito Link web" />
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:text="Implicito mapa" />
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:text="Start for Result" />
+
+    <EditText
+        android:id="@+id/assunto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Digite um assunto"
+        android:padding="3dp"
+        android:layout_margin="2dp" />
+    <EditText
+        android:id="@+id/msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Digite a mensagem"
+        android:padding="3dp"
+        android:layout_margin="2dp" />
+    <Button
+        android:id="@+id/btnExplicit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Explicit TxtActivity"
+        android:padding="3dp"
+        android:layout_margin="2dp" />
+    <Button
+        android:id="@+id/btnImplicit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Implicit SMS"
+        android:padding="3dp"
+        android:layout_margin="2dp" />
+
+</LinearLayout>
