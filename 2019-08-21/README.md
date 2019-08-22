@@ -14,6 +14,4 @@ O objetivo desta aula é fornecer uma visão de como processos funcionam em Andr
 
 - [Understand the Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 - [Handle Activity State Changes](https://developer.android.com/guide/components/activities/state-changes)
-- [How ListView's recycling mechanism works](https://stackoverflow.com/questions/11945563/how-listviews-recycling-mechanism-works)
-- [Optimizing Your ListView with the ViewHolder Pattern (link antigo)](https://dzone.com/articles/optimizing-your-listview)
-- [RecyclerView ins and outs - Google I/O'16](https://www.youtube.com/watch?v=LqBlYJTfLP4)
+- [Kristin Marsicano: Activities in the Wild: Exploring the Activity Lifecycle](https://www.youtube.com/watch?v=Lhk8WSUSw8g)
