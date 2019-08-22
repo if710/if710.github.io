@@ -75,16 +75,16 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 02 | 09.08.19 (sex) | [Kotlin & Android Basics](2019-08-09/) | --- |
 | 03 | 14.08.19 (qua) | [Layout Managers e Widgets UI](2019-08-14/) | --- |
 | 04 | 16.08.19 (sex) | [RecyclerView](2019-08-16/) | [Exercício 1 lançado](https://classroom.github.com/a/VillR1HC) |
-| 05 | 21.08.19 (qua) | Ciclo de Vida, ViewModel, Processos | --- |
-| 06 | 23.08.19 (sex) | DataBinding, Intents | *Deadline para entrega do Exercício 1* |
-| 07 | 28.08.19 (qua) | Threads & LiveData | --- |
-| 08 | 30.08.19 (sex) | Arquitetura MVx | --- |
-| 09 | 04.09.19 (qua) | Data Management - Preferences and Room | --- |
+| 05 | 21.08.19 (qua) | [Ciclo de Vida, Processos](2019-08-21/) | --- |
+| 06 | 23.08.19 (sex) | Intents | *Deadline para entrega do Exercício 1* |
+| 07 | 28.08.19 (qua) | Threads | --- |
+| 08 | 30.08.19 (sex) | Data Management - Preferences & Room | --- |
+| 09 | 04.09.19 (qua) | Services & BroadcastReceivers | --- |
 | 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](#) | --- |
 | 11 | 11.09.19 (qua) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
 | 12 | 13.09.19 (sex) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
-| 13 | 18.09.19 (qua) | Services & BroadcastReceivers | *Deadline para entrega do Exercício 2* |
-| 14 | 20.09.19 (sex) | Estilos Arquiteturais | [Exercício 3 lançado](#) | |
+| 13 | 18.09.19 (qua) | Estilos Arquiteturais | *Deadline para entrega do Exercício 2* |
+| 14 | 20.09.19 (sex) | Architecture Components | [Exercício 3 lançado](#) | |
 | 15 | 25.09.19 (qua) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
 | 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
 | 17 | 02.10.19 (qua) | Processamento e Desempenho | --- |
