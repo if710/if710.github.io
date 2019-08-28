@@ -14,7 +14,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         btn1.setOnClickListener {
-            startActivity(Intent(applicationContext, LifecycleActivity::class.java))
+            val i = Intent(applicationContext, LifecycleActivity::class.java)
+            startActivity(i)
         }
 
         btn2.setOnClickListener {

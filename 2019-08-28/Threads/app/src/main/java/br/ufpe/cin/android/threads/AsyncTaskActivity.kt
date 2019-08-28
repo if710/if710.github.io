@@ -51,7 +51,7 @@ class AsyncTaskActivity : Activity() {
                     // fazendo o migué!
                     for (i in 1..10) {
                         sleep()
-                        publishProgress(i * 10, i * 11, i * 12)
+                        publishProgress(i * 10)
                     }
                     return tmp
                 }

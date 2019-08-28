@@ -29,7 +29,10 @@ class ThreadSimples : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.threads)
 
-        loadButton.setOnClickListener { loadIcon() }
+        loadButton.setOnClickListener {
+            loadIconIncorreto()
+            //loadIconAsync()
+        }
 
         otherButton.setOnClickListener {
             toasts++
@@ -38,7 +41,7 @@ class ThreadSimples : Activity() {
         }
     }
 
-    private fun loadIcon() {
+    private fun loadIconIncorreto() {
 
         Thread(Runnable {
             try {
@@ -55,24 +58,8 @@ class ThreadSimples : Activity() {
 
     }
 
-    companion object {
-        private val TAG = "SimpleThreading"
-    }
-
-
-
-
-
-
-
-    /*
-                                                                          android.view.ViewRootImpl$CalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views.
-                                                                              at android.view.ViewRootImpl.checkThread(ViewRootImpl.java:6094)
-                                                                              at android.view.ViewRootImpl.requestLayout(ViewRootImpl.java:824)
-                                                                              at android.view.View.requestLayout(View.java:16431)
-                                                                              at android.view.View.requestLayout(View.java:16431)
-                                                                              at android.view.View.requestLayout(View.java:16431)
-             doAsync {
+    private fun loadIconAsync() {
+        doAsync {
             try {
                 Thread.sleep(mDelay.toLong())
             } catch (e: InterruptedException) {
@@ -80,18 +67,28 @@ class ThreadSimples : Activity() {
             }
 
             mBitmap = BitmapFactory.decodeResource(resources,
-                    R.drawable.painter)
-            uiThread {
-                imageView.setImageBitmap(mBitmap)
-            }
-        }                                                                 at android.view.View.requestLayout(View.java:16431)
-                                                                              at android.view.View.requestLayout(View.java:16431)
-                                                                              at android.widget.ImageView.setImageDrawable(ImageView.java:424)
-                                                                              at android.widget.ImageView.setImageBitmap(ImageView.java:439)
-                                                                              at br.ufpe.cin.if1001.threads.ThreadSimples$3.run(ThreadSimples.java:67)
-                                                                              at java.lang.Thread.run(Thread.java:841)
+                R.drawable.painter)
 
+            uiThread { imageView.setImageBitmap(mBitmap) }
+        }
+    }
+
+
+    companion object {
+        private val TAG = "SimpleThreading"
+    }
+
+    /*
+        android.view.ViewRootImpl$CalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views.
+         at android.view.ViewRootImpl.checkThread(ViewRootImpl.java:6094)
+         at android.view.ViewRootImpl.requestLayout(ViewRootImpl.java:824)
+         at android.view.View.requestLayout(View.java:16431)
+         at android.view.View.requestLayout(View.java:16431)
+         at android.view.View.requestLayout(View.java:16431)
+         at android.view.View.requestLayout(View.java:16431)
+         at android.widget.ImageView.setImageDrawable(ImageView.java:424)
+         at android.widget.ImageView.setImageBitmap(ImageView.java:439)
+         at br.ufpe.cin.if1001.threads.ThreadSimples$3.run(ThreadSimples.java:67)
+         at java.lang.Thread.run(Thread.java:841)
  */
-
-
 }

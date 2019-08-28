@@ -10,7 +10,11 @@ O objetivo desta aula é fornecer uma visão do uso de objetos `Intent` em seus 
 
 - [App IntentFilters](https://github.com/if710/if710.github.io/tree/master/2019-08-28/IntentFilters/)
 - [App Threads](https://github.com/if710/if710.github.io/tree/master/2019-08-28/Threads/)
+- [Slides Intents](https://drive.google.com/open?id=1pxwrOyRSVfl5KCeuW4Mg6j-2NIXSGN54)
+- [Slides Threads](https://drive.google.com/open?id=1J17so69CVbFURaGTLmW-6kEuwav8dgY5)
 
 ### Links Relacionados
 
-- 
+- [Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters)
+- [Sending operations to multiple threads](https://developer.android.com/training/multiple-threads)
+- [Processes and threads overview](https://developer.android.com/guide/components/processes-and-threads)

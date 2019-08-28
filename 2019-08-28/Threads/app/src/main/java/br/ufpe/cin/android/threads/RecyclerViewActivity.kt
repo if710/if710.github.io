@@ -19,6 +19,7 @@ class RecyclerViewActivity : Activity() {
     internal var recyclerView: RecyclerView? = null
     private var pessoaAdapter: PessoaAdapter? = null
     internal var listaPessoas: SortedList<Pessoa>? = null
+    private var task: AddPessoaTask? = null
 
     internal var metodosCallback: SortedList.Callback<Pessoa> = object : SortedList.Callback<Pessoa>() {
         override fun compare(o1: Pessoa, o2: Pessoa): Int {
@@ -66,6 +67,22 @@ class RecyclerViewActivity : Activity() {
         setContentView(recyclerView)
     }
 
+    override fun onStart() {
+        super.onStart()
+        task = AddPessoaTask()
+    }
+
+    override fun onResume() {
+        super.onResume()
+        //O asterisco permite que o array seja passado como uma sequência de argumentos
+        task?.execute(*Constants.maisPessoas)
+
+    }
+
+    override fun onPause() {
+        super.onPause()
+        task?.cancel(true)
+    }
 
 
     private inner class PessoaAdapter(private val pessoas: SortedList<Pessoa>?) : RecyclerView.Adapter<CardChangeHolder>() {
@@ -122,5 +139,34 @@ class RecyclerViewActivity : Activity() {
         }
     }
 
+    private inner class AddPessoaTask : AsyncTask<Pessoa, Pessoa, Void>() {
+
+        override fun onPreExecute() {
+            Toast.makeText(applicationContext, "começando...", Toast.LENGTH_LONG).show()
+        }
+
+        override fun doInBackground(vararg params: Pessoa): Void? {
+            for (p in params) {
+                if (isCancelled) {
+                    break
+                }
+                publishProgress(p)
+                SystemClock.sleep(1000)
+            }
+            return null
+        }
+
+        override fun onProgressUpdate(vararg values: Pessoa) {
+            if (!isCancelled) {
+                listaPessoas?.add(values[0])
+            }
+        }
+
+        override fun onPostExecute(result: Void?) {
+            Toast.makeText(applicationContext, "Terminou!", Toast.LENGTH_SHORT).show()
+            task = null
+        }
+
+    }
 
 }
