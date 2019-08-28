@@ -77,7 +77,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 04 | 16.08.19 (sex) | [RecyclerView](2019-08-16/) | [Exercício 1 lançado](https://classroom.github.com/a/VillR1HC) |
 | 05 | 21.08.19 (qua) | [Ciclo de Vida, Processos](2019-08-21/) | --- |
 | 06 | 23.08.19 (sex) | Aula dedicada para prática do exercício 1 | *Deadline para entrega do Exercício 1* |
-| 07 | 28.08.19 (qua) | Intents & Threads | --- |
+| 07 | 28.08.19 (qua) | [Intents & Threads](2019-08-28/) | --- |
 | 08 | 30.08.19 (sex) | Data Management - Preferences & Room | --- |
 | 09 | 04.09.19 (qua) | Services & BroadcastReceivers | --- |
 | 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](#) | --- |
