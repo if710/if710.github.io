@@ -76,15 +76,15 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 03 | 14.08.19 (qua) | [Layout Managers e Widgets UI](2019-08-14/) | --- |
 | 04 | 16.08.19 (sex) | [RecyclerView](2019-08-16/) | [Exercício 1 lançado](https://classroom.github.com/a/VillR1HC) |
 | 05 | 21.08.19 (qua) | [Ciclo de Vida, Processos](2019-08-21/) | --- |
-| 06 | 23.08.19 (sex) | Intents | *Deadline para entrega do Exercício 1* |
-| 07 | 28.08.19 (qua) | Threads | --- |
+| 06 | 23.08.19 (sex) | Aula dedicada para prática do exercício 1 | *Deadline para entrega do Exercício 1* |
+| 07 | 28.08.19 (qua) | Intents & Threads | --- |
 | 08 | 30.08.19 (sex) | Data Management - Preferences & Room | --- |
 | 09 | 04.09.19 (qua) | Services & BroadcastReceivers | --- |
 | 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](#) | --- |
 | 11 | 11.09.19 (qua) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
 | 12 | 13.09.19 (sex) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
-| 13 | 18.09.19 (qua) | Estilos Arquiteturais | *Deadline para entrega do Exercício 2* |
-| 14 | 20.09.19 (sex) | Architecture Components | [Exercício 3 lançado](#) | |
+| 13 | 18.09.19 (qua) | Princípios de UI Design para Apps | *Deadline para entrega do Exercício 2* |
+| 14 | 20.09.19 (sex) | Estilos Arquiteturais & Architecture Components | [Exercício 3 lançado](#) | |
 | 15 | 25.09.19 (qua) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
 | 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
 | 17 | 02.10.19 (qua) | Processamento e Desempenho | --- |
