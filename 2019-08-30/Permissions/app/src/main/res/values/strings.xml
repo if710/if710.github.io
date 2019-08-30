@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="btn_txt_location">Localização</string>
+    <string name="btn_txt_camera">Câmera</string>
+    <string name="btn_txt_internet">Internet</string>
+    <string name="btn_txt_contacts">Contatos</string>
+    <string name="btn_txt_storage">Armazenamento</string>
+    <string name="msg_sem_permissao">Infelizmente, não podemos completar a operação, pois você não concedeu a permissão!</string>
+    <string name="msg_camera">Sorria!</string>
+    <string name="msg_contacts">Algo com os contatos</string>
+    <string name="msg_location">Algo com localização</string>
+</resources>
