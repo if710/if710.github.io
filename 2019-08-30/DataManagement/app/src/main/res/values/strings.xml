@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Data Management</string>
+    <string name="play_string">Jogar</string>
+    <string name="highscore_string">&quot;HighScore: &quot;</string>
+    <string name="reset_string">Resetar</string>
+    <string name="editar_username_string">Alterar Nome - Activity</string>
+    <string name="ver_username_string">Alterar Nome - PreferenceFragment</string>
+    <string name="salvar_username">Salvar Nome</string>
+    <string name="default_username">nada escolhido...</string>
+    <string name="btnAddEstado">Adicionar Estado</string>
+    <string-array name="estadosBrasil">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AP</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MG</item>
+        <item>MS</item>
+        <item>MT</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>PR</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>RS</item>
+        <item>SC</item>
+        <item>SE</item>
+        <item>SP</item>
+        <item>TO</item>
+    </string-array>
+</resources>

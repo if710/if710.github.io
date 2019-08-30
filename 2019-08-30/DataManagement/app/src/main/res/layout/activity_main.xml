@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnMemoriaExterna"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Memória Externa"
+        android:textSize="24sp">
+    </Button>
+    <Button
+        android:id="@+id/btnMemoriaInterna"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Memória Interna"
+        android:textSize="24sp">
+    </Button>
+    <Button
+        android:id="@+id/btnSharedPreferences"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shared Preferences"
+        android:textSize="24sp">
+    </Button>
+    <Button
+            android:id="@+id/btnPreferencesActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Preferences Manual"
+            android:textSize="24sp">
+    </Button>
+    <Button
+            android:id="@+id/btnPreferencesMenuActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Preferences Menu"
+            android:textSize="24sp">
+    </Button>
+    <Button
+        android:id="@+id/btnSQLite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SQLite"
+        android:textSize="24sp">
+    </Button>
+
+</LinearLayout>

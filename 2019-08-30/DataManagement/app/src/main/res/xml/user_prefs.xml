@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+            android:title="O QUE IMPORTA">
+        <EditTextPreference
+            android:key="uname"
+            android:dialogMessage="Digite seu nome de usuário"
+            android:dialogTitle="Alterar nome de usuário"
+            android:negativeButtonText="Cancelar"
+            android:positiveButtonText="Enviar"
+            android:title="Nome de usuário"></EditTextPreference>
+
+    </PreferenceCategory>
+    <PreferenceCategory
+            android:title="GERAL">
+
+
+        <Preference
+                android:key="preference"
+                android:title="Basic..."
+                android:summary="Summary..."/>
+
+        <Preference
+                android:key="stylized"
+                android:title="Stylish..."
+                android:summary="summary stylish..."/>
+
+        <Preference
+                android:key="icon"
+                android:title="Icon"
+                android:summary="summary icon..."
+                android:icon="@android:drawable/ic_menu_camera"/>
+
+        <Preference
+                android:key="single_line_title"
+                android:title="Single Line"
+                android:summary="summary single line"
+                app:singleLineTitle="true"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="WIDGETS">
+
+        <CheckBoxPreference
+                android:key="checkbox"
+                android:title="Checkbox"
+                android:summary="Summary Checkbox"/>
+
+        <SwitchPreferenceCompat
+                android:key="switch"
+                android:title="Switch"
+                android:summary="summary switch"/>
+
+        <DropDownPreference
+                android:key="dropdown"
+                android:title="Dropdown"
+                android:entries="@array/estadosBrasil"
+                android:entryValues="@array/estadosBrasil"/>
+
+        <SeekBarPreference
+                android:key="seekbar"
+                android:title="Seekbar"
+                android:max="10"
+                android:defaultValue="5"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="DIALOGS">
+
+        <EditTextPreference
+                android:key="edittext"
+                android:title="EditText Preference"
+                android:dialogTitle="Titulo do Dialog"/>
+
+        <ListPreference
+                android:key="list"
+                android:title="List Preference"
+                android:entries="@array/estadosBrasil"
+                android:entryValues="@array/estadosBrasil"
+                android:dialogTitle="Titulo do Dialog"/>
+
+        <MultiSelectListPreference
+                android:key="multi_select_list"
+                android:title="Multi Select List"
+                android:summary="summary multi list"
+                android:entries="@array/estadosBrasil"
+                android:entryValues="@array/estadosBrasil"
+                android:dialogTitle="Titulo do Dialog"/>
+    </PreferenceCategory>
+    <!--
+    <PreferenceCategory
+            android:key="advanced"
+            android:title="@string/advanced_attributes"
+            app:initialExpandedChildrenCount="1">
+
+        <Preference
+                android:key="expandable"
+                android:title="@string/title_expandable_preference"
+                android:summary="@string/summary_expandable_preference"/>
+
+        <Preference
+                android:title="@string/title_intent_preference"
+                android:summary="@string/summary_intent_preference">
+
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.android.com"/>
+
+        </Preference>
+
+        <SwitchPreferenceCompat
+                android:key="parent"
+                android:title="@string/title_parent_preference"
+                android:summary="@string/summary_parent_preference"/>
+
+        <SwitchPreferenceCompat
+                android:key="child"
+                android:dependency="parent"
+                android:title="@string/title_child_preference"
+                android:summary="@string/summary_child_preference"/>
+
+        <SwitchPreferenceCompat
+                android:key="toggle_summary"
+                android:title="@string/title_toggle_summary_preference"
+                android:summaryOn="@string/summary_on_toggle_summary_preference"
+                android:summaryOff="@string/summary_off_toggle_summary_preference"/>
+
+        <Preference
+                android:key="copyable"
+                android:title="@string/title_copyable_preference"
+                android:summary="@string/summary_copyable_preference"
+                app:enableCopying="true"/>
+    </PreferenceCategory>
+    -->
+</androidx.preference.PreferenceScreen>
