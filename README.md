@@ -78,20 +78,20 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 05 | 21.08.19 (qua) | [Ciclo de Vida, Processos](2019-08-21/) | --- |
 | 06 | 23.08.19 (sex) | Aula dedicada para prática do exercício 1 | *Deadline para entrega do Exercício 1* |
 | 07 | 28.08.19 (qua) | [Intents & Threads](2019-08-28/) | --- |
-| 08 | 30.08.19 (sex) | Data Management - Preferences & Room | --- |
-| 09 | 04.09.19 (qua) | Services & BroadcastReceivers | --- |
+| 08 | 30.08.19 (sex) | *Planejamento Estratégico do CIn - sem aula* | --- |
+| 09 | 04.09.19 (qua) | [Permissions, Data Management - Preferences & Room](2019-09-04/) | --- |
 | 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](#) | --- |
 | 11 | 11.09.19 (qua) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
 | 12 | 13.09.19 (sex) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
-| 13 | 18.09.19 (qua) | Princípios de UI Design para Apps | *Deadline para entrega do Exercício 2* |
-| 14 | 20.09.19 (sex) | Estilos Arquiteturais & Architecture Components | [Exercício 3 lançado](#) | |
+| 13 | 18.09.19 (qua) | Services & BroadcastReceivers | *Deadline para entrega do Exercício 2* |
+| 14 | 20.09.19 (sex) | Princípios de UI Design para Apps | [Exercício 3 lançado](#) | |
 | 15 | 25.09.19 (qua) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
 | 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
-| 17 | 02.10.19 (qua) | Processamento e Desempenho | --- |
-| 18 | 04.10.19 (sex) | Memória | --- |
-| 19 | 09.10.19 (qua) | Energia | --- |
-| 20 | 11.10.19 (sex) | Consumo de Rede | --- |
-| 21 | 16.10.19 (qua) | Testes | --- |
+| 17 | 02.10.19 (qua) | Estilos Arquiteturais & Architecture Components | --- |
+| 18 | 04.10.19 (sex) | Processamento e Desempenho | --- |
+| 19 | 09.10.19 (qua) | Memória | --- |
+| 20 | 11.10.19 (sex) | Energia | --- |
+| 21 | 16.10.19 (qua) | Consumo de Rede | --- |
 | 22 | 18.10.19 (sex) | Testes | --- |
 | 23 | 23.10.19 (qua) | Privacidade | --- |
 | 24 | 25.10.19 (sex) | Segurança | --- |
