@@ -80,9 +80,9 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 07 | 28.08.19 (qua) | [Intents & Threads](2019-08-28/) | --- |
 | 08 | 30.08.19 (sex) | *Planejamento Estratégico do CIn - sem aula* | --- |
 | 09 | 04.09.19 (qua) | [Permissions, Data Management - Preferences & Room](2019-09-04/) | --- |
-| 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](#) | --- |
-| 11 | 11.09.19 (qua) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
-| 12 | 13.09.19 (sex) | [Exercício 2 - Aula dedicada a praticar](#) | --- |
+| 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](https://github.com/if710/2019.2-exercicio-2-podcast) | [Link para Github Classroom](https://classroom.github.com/a/2njRSuUY)] |
+| 11 | 11.09.19 (qua) | [Exercício 2 - Aula dedicada a praticar](https://github.com/if710/2019.2-exercicio-2-podcast) | --- |
+| 12 | 13.09.19 (sex) | [Exercício 2 - Aula dedicada a praticar](https://github.com/if710/2019.2-exercicio-2-podcast) | --- |
 | 13 | 18.09.19 (qua) | Services & BroadcastReceivers | *Deadline para entrega do Exercício 2* |
 | 14 | 20.09.19 (sex) | Princípios de UI Design para Apps | [Exercício 3 lançado](#) | |
 | 15 | 25.09.19 (qua) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
