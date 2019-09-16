@@ -83,12 +83,13 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 10 | 06.09.19 (sex) | [Exercício 2 lançado - Aula dedicada a praticar](https://github.com/if710/2019.2-exercicio-2-podcast) | [Link para Github Classroom](https://classroom.github.com/a/2njRSuUY)] |
 | 11 | 11.09.19 (qua) | [Exercício 2 - Aula dedicada a praticar](https://github.com/if710/2019.2-exercicio-2-podcast) | --- |
 | 12 | 13.09.19 (sex) | [Exercício 2 - Aula dedicada a praticar](https://github.com/if710/2019.2-exercicio-2-podcast) | --- |
-| 13 | 18.09.19 (qua) | Services & BroadcastReceivers | *Deadline para entrega do Exercício 2* |
-| 14 | 20.09.19 (sex) | Princípios de UI Design para Apps | [Exercício 3 lançado](#) | |
+| 13 | 18.09.19 (qua) | Services & BroadcastReceivers | --- |
+| 14 | 20.09.19 (sex) | Princípios de UI Design para Apps | *Deadline para entrega do Exercício 2* |
+| - | 23.09.19 (seg) | [Exercício 3 lançado](#) | --- |
 | 15 | 25.09.19 (qua) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
 | 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
 | 17 | 02.10.19 (qua) | Estilos Arquiteturais & Architecture Components | --- |
-| 18 | 04.10.19 (sex) | Processamento e Desempenho | --- |
+| 18 | 04.10.19 (sex) | Processamento e Desempenho | *Deadline para entrega do Exercício 3* |
 | 19 | 09.10.19 (qua) | Memória | --- |
 | 20 | 11.10.19 (sex) | Energia | --- |
 | 21 | 16.10.19 (qua) | Consumo de Rede | --- |
