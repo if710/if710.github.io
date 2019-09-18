@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/botao_mainThread"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Service na Main Thread"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_musicPlayer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Music Player"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_musicServiceWithoutBinding"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="startService() sem binding"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_musicServiceWithBinding"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Service com bindService()"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_downloadService"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Exemplo de IntentService"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_broadcast"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Exemplo de broadcast"
+        android:textSize="20sp" />
+</LinearLayout>
