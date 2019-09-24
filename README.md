@@ -84,18 +84,19 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 11 | 11.09.19 (qua) | [Exercício 2 - Aula dedicada a praticar](https://github.com/if710/2019.2-exercicio-2-podcast) | --- |
 | 12 | 13.09.19 (sex) | [Exercício 2 - Aula dedicada a praticar](https://github.com/if710/2019.2-exercicio-2-podcast) | --- |
 | 13 | 18.09.19 (qua) | [Services](2019-09-18/) | --- |
-| 14 | 20.09.19 (sex) | Princípios de UI Design para Apps & BroadcastReceivers | *Deadline para entrega do Exercício 2* |
-| - | 23.09.19 (seg) | [Exercício 3 lançado](#) | --- |
-| 15 | 25.09.19 (qua) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
+| 14 | 20.09.19 (sex) | [Princípios de UI Design para Apps](2019-09-20/) | --- |
+| -- | 23.09.19 (seg) | *Deadline para entrega do Exercício 2* | --- |
+| 15 | 25.09.19 (qua) | [Exercício 3 lançado - Aula dedicada a praticar](#) | --- |
 | 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
-| 17 | 02.10.19 (qua) | Estilos Arquiteturais & Architecture Components | --- |
-| 18 | 04.10.19 (sex) | Processamento e Desempenho | *Deadline para entrega do Exercício 3* |
-| 19 | 09.10.19 (qua) | Memória | --- |
-| 20 | 11.10.19 (sex) | Energia | --- |
-| 21 | 16.10.19 (qua) | Consumo de Rede | --- |
-| 22 | 18.10.19 (sex) | Testes | --- |
-| 23 | 23.10.19 (qua) | Privacidade | --- |
-| 24 | 25.10.19 (sex) | Segurança | --- |
+| 17 | 02.10.19 (qua) | BroadcastReceivers & Architecture Components | --- |
+| 18 | 04.10.19 (sex) | Estilos Arquiteturais | --- |
+| -- | 07.10.19 (seg) | *Deadline para entrega do Exercício 3* | --- |
+| 19 | 09.10.19 (qua) | Processamento e Desempenho | --- |
+| 20 | 11.10.19 (sex) | Memória | --- |
+| 21 | 16.10.19 (qua) | Energia | --- |
+| 22 | 18.10.19 (sex) | Consumo de Rede | --- |
+| 23 | 23.10.19 (qua) | Testes | --- |
+| 24 | 25.10.19 (sex) | Privacidade & Segurança | --- |
 | 25 | 30.10.19 (qua) | Suporte ferramental, abordagens alternativas de programação | --- |
 | 26 | 01.11.19 (sex) | Cross-platform development | --- |
 | 27 | 06.11.19 (qua) | Acompanhar projeto | --- |
