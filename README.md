@@ -86,10 +86,10 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 13 | 18.09.19 (qua) | [Services](2019-09-18/) | --- |
 | 14 | 20.09.19 (sex) | [Princípios de UI Design para Apps](2019-09-20/) | --- |
 | -- | 23.09.19 (seg) | *Deadline para entrega do Exercício 2* | --- |
-| 15 | 25.09.19 (qua) | [Exercício 3 lançado - Aula dedicada a praticar](#) | --- |
-| 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](#) | --- |
-| 17 | 02.10.19 (qua) | BroadcastReceivers & Architecture Components | --- |
-| 18 | 04.10.19 (sex) | Estilos Arquiteturais | --- |
+| 15 | 25.09.19 (qua) | [Exercício 3 lançado - Aula dedicada a praticar](https://classroom.github.com/a/p18Ot6hk) | --- |
+| 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](https://classroom.github.com/a/p18Ot6hk) | --- |
+| 17 | 02.10.19 (qua) | BroadcastReceivers & System Services | --- |
+| 18 | 04.10.19 (sex) | Architecture Components & Estilos Arquiteturais | --- |
 | -- | 07.10.19 (seg) | *Deadline para entrega do Exercício 3* | --- |
 | 19 | 09.10.19 (qua) | Processamento e Desempenho | --- |
 | 20 | 11.10.19 (sex) | Memória | --- |
