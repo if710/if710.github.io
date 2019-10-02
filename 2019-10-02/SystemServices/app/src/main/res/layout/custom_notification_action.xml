@@ -1,0 +1,34 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+ 
+    <ImageView
+        android:id="@+id/imageLeft"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginRight="10dp"
+        android:contentDescription="@string/eye_desc_string"
+        android:src="@drawable/fire_eye_alien" />
+ 
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imageLeft" 
+        android:textColor="#FFF"
+        android:textSize="18sp" 
+        android:text="@string/notify_custom_action_string"
+    />
+ 
+    <TextView
+        android:id="@+id/acao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titulo"
+        android:layout_toRightOf="@id/imageLeft" 
+        android:textColor="#FFF"
+        android:textSize="12sp" 
+    />
+  
+</RelativeLayout>

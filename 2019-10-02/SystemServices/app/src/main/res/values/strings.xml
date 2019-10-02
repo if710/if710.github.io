@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SystemServices</string>
+    <string name="PACKAGE_NAME">br.ufpe.cin.android.systemservices</string>
+    <string name="eye_desc_string">Eye</string>
+    <string name="notify_simples_string">Notificar Simples</string>
+    <string name="notify_custom_string">Notificar Personalizado</string>
+    <string name="notify_progress_string">Notificar Progresso</string>
+    <string name="mostrartoastsimples_string">Toast simples</string>
+    <string name="mostrartoastcustom_string">Toast personalizado</string>
+    <string name="intent_received_string">Intent Recebido</string>
+    <string name="intent_received2_string">Intent Personalizado Recebido</string>
+    <string name="custom_action_string">Intent Disparado a partir de uma Custom Action</string>
+    <string name="toast_simples_string">Toast Simples</string>
+    <string name="notify_custom_action_string">Custom Action</string>
+    <string name="notify_big_text_string">Big Text</string>
+    <string name="notify_big_picture_string">Big Picture</string>
+    <string name="toast_personalizado_string">Personalizado...</string>
+    <string name="title_activity_custom_action">CustomAction</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="simple_alarm">Alarme Activity</string>
+    <string name="set_single_alarm">Alarme único</string>
+    <string name="set_repeating_alarm">Repetir Alarme</string>
+    <string name="cancel_repeating_alarm">Cancelar Alarme</string>
+    <string name="set_inexact_repeating_alarm">Repetir (inexact) Alarme</string>
+
+    <string-array name="periods">
+        <item>15 Minutos</item>
+        <item>30 Minutos</item>
+        <item>60 Minutos</item>
+    </string-array>
+</resources>
