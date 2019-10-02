@@ -39,8 +39,10 @@ class LauncherActivity : ListActivity() {
         Collections.sort(launcherActivities, ResolveInfo.DisplayNameComparator(pm))
 
         //usa um custom adapter para definir o conteudo dos itens da lista
-        adapter = CustomAdapter(pm, launcherActivities)
-        listAdapter = adapter
+        if (launcherActivities!=null) {
+            adapter = CustomAdapter(pm, launcherActivities)
+            listAdapter = adapter
+        }
     }
 
     override fun onListItemClick(l: ListView, v: View, position: Int, id: Long) {
@@ -58,7 +60,9 @@ class LauncherActivity : ListActivity() {
         startActivity(i)
     }
 
-    internal inner class CustomAdapter(pm: PackageManager?, apps: List<ResolveInfo>?) : ArrayAdapter<ResolveInfo>(this@LauncherActivity, R.layout.app, apps) {
+    internal inner class CustomAdapter(pm: PackageManager?, apps: MutableList<ResolveInfo>) : ArrayAdapter<ResolveInfo>(this@LauncherActivity, R.layout.app,
+        apps
+    ) {
         private val packageManager: PackageManager? = pm
 
         override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {

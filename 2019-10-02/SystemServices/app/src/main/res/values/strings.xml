@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SystemServices</string>
+    <string name="app_name">System Services</string>
     <string name="PACKAGE_NAME">br.ufpe.cin.android.systemservices</string>
     <string name="eye_desc_string">Eye</string>
     <string name="notify_simples_string">Notificar Simples</string>
@@ -30,4 +30,5 @@
         <item>30 Minutos</item>
         <item>60 Minutos</item>
     </string-array>
+
 </resources>
