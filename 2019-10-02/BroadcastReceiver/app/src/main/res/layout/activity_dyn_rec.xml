@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/enviarBroadcastSta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar Broadcast Static"
+        android:textSize="24sp">
+    </Button>
+    <Button
+        android:id="@+id/enviarBroadcastDyn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar Broadcast Dynamic"
+        android:textSize="24sp">
+    </Button>
+
+</LinearLayout>
