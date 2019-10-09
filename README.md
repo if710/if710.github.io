@@ -88,20 +88,20 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | -- | 23.09.19 (seg) | *Deadline para entrega do Exercício 2* | --- |
 | 15 | 25.09.19 (qua) | [Exercício 3 lançado - Aula dedicada a praticar](https://classroom.github.com/a/p18Ot6hk) | --- |
 | 16 | 27.09.19 (sex) | [Exercício 3 - Aula dedicada a praticar](https://classroom.github.com/a/p18Ot6hk) | --- |
-| 17 | 02.10.19 (qua) | BroadcastReceivers & System Services | --- |
-| 18 | 04.10.19 (sex) | Architecture Components & Estilos Arquiteturais | --- |
+| 17 | 02.10.19 (qua) | [BroadcastReceivers & System Services](2019-10-02/) | --- |
+| 18 | 04.10.19 (sex) | [Architecture Components & Estilos Arquiteturais](2019-10-04/) | --- |
 | -- | 07.10.19 (seg) | *Deadline para entrega do Exercício 3* | --- |
-| 19 | 09.10.19 (qua) | Processamento e Desempenho | --- |
-| 20 | 11.10.19 (sex) | Memória | --- |
-| 21 | 16.10.19 (qua) | Energia | --- |
-| 22 | 18.10.19 (sex) | Consumo de Rede | --- |
-| 23 | 23.10.19 (qua) | Testes | --- |
-| 24 | 25.10.19 (sex) | Privacidade & Segurança | --- |
-| 25 | 30.10.19 (qua) | Suporte ferramental, abordagens alternativas de programação | --- |
-| 26 | 01.11.19 (sex) | Cross-platform development | --- |
-| 27 | 06.11.19 (qua) | Acompanhar projeto | --- |
-| 28 | 08.11.19 (sex) | Acompanhar projeto | --- |
-| 29 | 13.11.19 (qua) | Acompanhar projeto | --- |
+| 19 | 09.10.19 (qua) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | --- |
+| 20 | 11.10.19 (sex) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | --- |
+| 21 | 16.10.19 (qua) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | --- |
+| 22 | 18.10.19 (sex) | Processamento e Desempenho | --- |
+| 23 | 23.10.19 (qua) | Memória | --- | 
+| 24 | 25.10.19 (sex) | Energia  | --- |
+| 25 | 30.10.19 (qua) | Testes | --- |
+| 26 | 01.11.19 (sex) | Consumo de Rede  | --- |
+| 27 | 06.11.19 (qua) | Privacidade & Segurança | --- |
+| 28 | 08.11.19 (sex) | Acessibilidade | --- |
+| 29 | 13.11.19 (qua) | _Cross-platform development_ | --- |
 | -- | 15.11.19 (sex) | **FERIADO - Proclamação da República** | --- |
 | 30 | 20.11.19 (qua) | Acompanhar projeto | --- |
 | 31 | 22.11.19 (sex) | Acompanhar projeto | --- |

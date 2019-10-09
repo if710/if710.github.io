@@ -5,6 +5,7 @@ import android.content.Intent
 import android.content.IntentFilter
 import android.os.Bundle
 import android.widget.Toast
+import androidx.localbroadcastmanager.content.LocalBroadcastManager
 import kotlinx.android.synthetic.main.activity_dyn_rec.*
 
 class DynRecActivity : Activity() {
@@ -15,7 +16,9 @@ class DynRecActivity : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_dyn_rec)
 
-        enviarBroadcastSta.setOnClickListener { sendBroadcast(Intent(MainActivity.STA_BROADCAST_ACTION)) }
+        enviarBroadcastSta.setOnClickListener {
+            //LocalBroadcastManager
+            sendBroadcast(Intent(MainActivity.STA_BROADCAST_ACTION)) }
         enviarBroadcastDyn.setOnClickListener { sendBroadcast(Intent(DYN_BROADCAST_ACTION)) }
     }
 
