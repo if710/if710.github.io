@@ -91,10 +91,10 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 17 | 02.10.19 (qua) | [BroadcastReceivers & System Services](2019-10-02/) | --- |
 | 18 | 04.10.19 (sex) | [Architecture Components & Estilos Arquiteturais](2019-10-04/) | --- |
 | -- | 07.10.19 (seg) | *Deadline para entrega do Exercício 3* | --- |
-| 19 | 09.10.19 (qua) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | --- |
+| 19 | 09.10.19 (qua) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | [Especificação do Projeto](Projeto-01-Especificacao.md) |
 | 20 | 11.10.19 (sex) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | --- |
 | 21 | 16.10.19 (qua) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | --- |
-| 22 | 18.10.19 (sex) | Processamento e Desempenho | --- |
+| 22 | 18.10.19 (sex) | Processamento e Desempenho | [Deadline para entrega da proposta do Projeto](Projeto-01-Especificacao.md) |
 | 23 | 23.10.19 (qua) | Memória | --- | 
 | 24 | 25.10.19 (sex) | Energia  | --- |
 | 25 | 30.10.19 (qua) | Testes | --- |
