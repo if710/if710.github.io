@@ -11,6 +11,7 @@ O objetivo desta aula é discutir questões associadas a consumo de rede por mei
 - Jailson Gomes	(@jailjr) & João Amaro (@joaoaab)
 - Victor Nicéas (@vdcn1) & Lucas Cabral (@LucasCCabral)
 - Lucas Santana (@luucasv) Adilson Junior (@AdilsonAngelo)
+- Livisghton Araujo (@livisghton) & Gabriel Gadelha (@akai16)
 
 ### Links Relacionados
 
