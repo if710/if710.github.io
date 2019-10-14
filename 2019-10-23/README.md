@@ -8,7 +8,6 @@ O objetivo desta aula é discutir questões associadas a consumo de memória por
 
 ### Responsáveis
 
-- Livisghton Araujo (@livisghton) & Gabriel Gadelha (@akai16)
 - Victor Guedes (@VictorAguiarGuedes) & Pamella Ferreira (@Pamella)
 - Miriane Nascimento (@mirianes)
   
