@@ -94,14 +94,15 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 19 | 09.10.19 (qua) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | [Especificação do Projeto](Projeto-01-Especificacao.md) |
 | 20 | 11.10.19 (sex) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | --- |
 | 21 | 16.10.19 (qua) | [Acompanhamento de Projeto](https://calendar.google.com/calendar/selfsched?sstoken=UUNrUldQWTNSR3ZmfGRlZmF1bHR8ZTFhNTM1Y2MxMWMwMTA4OTY3NTY1OTkwNDlhOWU2NzE) | --- |
-| 22 | 18.10.19 (sex) | Processamento e Desempenho | [Deadline para entrega da proposta do Projeto](Projeto-01-Especificacao.md) |
-| 23 | 23.10.19 (qua) | Memória | --- | 
-| 24 | 25.10.19 (sex) | Energia  | --- |
-| 25 | 30.10.19 (qua) | Testes | --- |
-| 26 | 01.11.19 (sex) | Consumo de Rede  | --- |
-| 27 | 06.11.19 (qua) | Privacidade & Segurança | --- |
-| 28 | 08.11.19 (sex) | Acessibilidade | --- |
-| 29 | 13.11.19 (qua) | _Cross-platform development_ | --- |
+| 22 | 18.10.19 (sex) | [Processamento e Desempenho](2019-10-18/) | --- |
+| -- | 21.10.19 (seg) | [Deadline para entrega da proposta do Projeto](Projeto-01-Especificacao.md) | --- |
+| 23 | 23.10.19 (qua) | [Memória](2019-10-23/) | --- | 
+| 24 | 25.10.19 (sex) | [Energia](2019-10-25/)  | --- |
+| 25 | 30.10.19 (qua) | [Testes](2019-10-30/) | --- |
+| 26 | 01.11.19 (sex) | [Consumo de Rede](2019-11-01/)  | --- |
+| 27 | 06.11.19 (qua) | [Privacidade & Segurança](2019-11-06/) | --- |
+| 28 | 08.11.19 (sex) | [Acessibilidade](2019-11-08/) | --- |
+| 29 | 13.11.19 (qua) | [_Cross-platform development_](2019-11-13/) | --- |
 | -- | 15.11.19 (sex) | **FERIADO - Proclamação da República** | --- |
 | 30 | 20.11.19 (qua) | Acompanhar projeto | --- |
 | 31 | 22.11.19 (sex) | Acompanhar projeto | --- |
