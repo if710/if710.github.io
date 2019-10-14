@@ -4,7 +4,7 @@
 
 ### Objetivo
 
-O objetivo desta aula é discutir questões associadas a desempenho e uso de CPU por meio da apresentação de ferramentas, boas práticas, e artigos acadêmicos. 
+O objetivo desta aula é discutir questões associadas a acessibilidade em dispositivos móveis por meio da apresentação de ferramentas, boas práticas, e artigos acadêmicos. 
 
 ### Responsáveis
 
