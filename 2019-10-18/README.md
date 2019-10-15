@@ -6,12 +6,14 @@
 
 O objetivo desta aula é discutir questões associadas a desempenho e uso de CPU por meio da apresentação de ferramentas, boas práticas, e artigos acadêmicos. 
 
-### Responsáveis
+### Boas práticas de desenvolvimento visando desempenho
+**Marcello Cordeiro	(marcellocordeiro) & Rodrigo Carneiro (rcrs3)**
 
-- Daniel Bezerra (@Danielfib) & Ramom Silva (rpss2)
-- Edjan Michiles (esvm) & Wilquer Lima (wilquerlima)
-- Marcello Cordeiro	(marcellocordeiro) & Rodrigo Carneiro (rcrs3)
-  
-### Links Relacionados
+- [Increasing performance in an Android application](https://heartbeat.fritz.ai/increasing-performance-in-an-android-application-1086640aeef)
+- Material adicional...
 
-- A completar após a aula...
+### An Empirical Study on the Impact of Android Code Smells on Resource Usage
+**Daniel Bezerra (@Danielfib) & Ramom Silva (@rpss2)**
+
+- Johnatan Oliveira, Markos Viggiato, Mateus Santos, Eduardo Figueiredo, and Humberto Marques-Neto. An Empirical Study on the Impact of Android Code Smells on Resource Usage. In proceedings of the International Conference on Software Engineering and Knowledge Engineering (SEKE), San Francisco, 1 - 3 July 2018. ([pdf](https://pdfs.semanticscholar.org/0195/5b3356063d5126b67e645fdc36dff382dbed.pdf))
+- Material adicional...
