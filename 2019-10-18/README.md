@@ -15,5 +15,5 @@ O objetivo desta aula é discutir questões associadas a desempenho e uso de CPU
 ### An Empirical Study on the Impact of Android Code Smells on Resource Usage
 **Daniel Bezerra (@Danielfib) & Ramom Silva (@rpss2)**
 
-- Johnatan Oliveira, Markos Viggiato, Mateus Santos, Eduardo Figueiredo, and Humberto Marques-Neto. An Empirical Study on the Impact of Android Code Smells on Resource Usage. In proceedings of the International Conference on Software Engineering and Knowledge Engineering (SEKE), San Francisco, 1 - 3 July 2018. ([pdf](https://pdfs.semanticscholar.org/0195/5b3356063d5126b67e645fdc36dff382dbed.pdf))
+- Johnatan Oliveira, Markos Viggiato, Mateus Santos, Eduardo Figueiredo, and Humberto Marques-Neto. [**An Empirical Study on the Impact of Android Code Smells on Resource Usage**](https://pdfs.semanticscholar.org/0195/5b3356063d5126b67e645fdc36dff382dbed.pdf). In *Proceedings of the International Conference on Software Engineering and Knowledge Engineering (SEKE)*, San Francisco, 1 - 3 July 2018. ([pdf](https://pdfs.semanticscholar.org/0195/5b3356063d5126b67e645fdc36dff382dbed.pdf))
 - Material adicional...
