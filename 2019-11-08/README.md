@@ -6,12 +6,20 @@
 
 O objetivo desta aula é discutir questões associadas a acessibilidade em dispositivos móveis por meio da apresentação de ferramentas, boas práticas, e artigos acadêmicos. 
 
-### Responsáveis
+### Criação e apresentação de um aplicativo ilustrando boas práticas relacionadas a acessibilidade 
+**Michael Júnior (@michaelbarney)**
 
-- Michael Júnior (@michaelbarney)
-- Guilherme Lima (@Gui-Lima) & Marina Barros (@marina-barrros)
-- José Murilo Mota (@jmsmf) & Bruno Barbosa (@tbbruno)
+- [Accessibility overview](https://developer.android.com/guide/topics/ui/accessibility)
+- _Material adicional..._
 
-### Links Relacionados
+### AccessiLeaks: Investigating Privacy Leaks Exposed by the Android Accessibility Service
+**José Murilo Mota (@jmsmf) & Bruno Barbosa (@tbbruno)**
 
-- A completar após a aula...
+- Mohammad Naseri, Nataniel P. Borges Jr., Andreas Zeller, Romain Rouvoy. [**AccessiLeaks: Investigating Privacy Leaks Exposed by the Android Accessibility Service**](https://hal.inria.fr/hal-01929049). *PETS 2019 - The 19th Privacy Enhancing Technologies Symposium*, July 2019, Stockholm, Sweden, 291-305. https://hal.inria.fr/hal-01929049
+- _Material adicional..._
+
+### Automated Accessibility Testing of Mobile Apps
+**Guilherme Lima (@Gui-Lima) & Marina Barros (@marina-barros)**
+
+- Marcelo Eler, José Miguel Rojas, Yan Ge and Gordon Fraser, [**Automated Accessibility Testing of Mobile Apps**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8367041&isnumber=8367020). *IEEE 11th International Conference on Software Testing, Verification and Validation (ICST)*, Vasteras, 2018, pp. 116-126. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8367041&isnumber=8367020
+- _Material adicional..._

@@ -6,13 +6,14 @@
 
 O objetivo desta aula é discutir questões associadas a consumo de energia por meio da apresentação de ferramentas, boas práticas, e artigos acadêmicos. 
 
-### Responsáveis
+### An exploratory study on assessing the energy impact of logging on Android applications
+**José Raphael dos Santos (@stepnus) & Ismael Júnior (@ismaeljunior)**
 
-- José Raphael dos Santos (@stepnus) & Ismael Júnior (@ismaeljunior)
+ - Shaiful Chowdhury, Silvia Di Nardo, Abram Hindle, and Zhen Ming Jiang. **[An exploratory study on assessing the energy impact of logging on Android applications](https://doi.org/10.1007/s10664-017-9545-x)**. *Empirical Software Engineering* Volume 23, Issue 3 (June 2018), pp 1422-1456. DOI: [https://doi.org/10.1007/s10664-017-9545-x](https://doi.org/10.1007/s10664-017-9545-x)
+- _Material adicional..._
+
+### Pendentes de definição de tema
+
 - Douglas Lins (@DouglasSL) & Jônatas Clementino (@JonatasDeOliveira)
 - Matheus da Luz (@mcnl) & Vinicius da Silva (@vbsilva)
 - Orlando Aceto	(@orlandoaceto)
-  
-### Links Relacionados
-
-- A completar após a aula...
