@@ -10,7 +10,7 @@ O objetivo desta aula é discutir questões associadas a desempenho e uso de CPU
 **Marcello Cordeiro	(marcellocordeiro) & Rodrigo Carneiro (rcrs3)**
 
 - [Increasing performance in an Android application](https://heartbeat.fritz.ai/increasing-performance-in-an-android-application-1086640aeef)
-- [Slides apresentados](#)
+- [Slides apresentados](increasing-performance.pdf)
 
 ### An Empirical Study on the Impact of Android Code Smells on Resource Usage
 **Daniel Bezerra (@Danielfib) & Ramom Silva (@rpss2)**
