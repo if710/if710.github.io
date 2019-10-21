@@ -12,6 +12,13 @@ O objetivo desta aula é discutir questões associadas a acessibilidade em dispo
 - [Accessibility overview](https://developer.android.com/guide/topics/ui/accessibility)
 - _Material adicional..._
 
+### [accessibilitools](https://github.com/novoda/accessibilitools) & [Axe Android](https://github.com/dequelabs/axe-android)
+**Lavinia Paganini (@lfp2)**
+
+- [accessibilitools](https://github.com/novoda/accessibilitools)
+- [Axe Android](https://github.com/dequelabs/axe-android)
+- _Material adicional..._
+
 ### AccessiLeaks: Investigating Privacy Leaks Exposed by the Android Accessibility Service
 **José Murilo Mota (@jmsmf) & Bruno Barbosa (@tbbruno)**
 
