@@ -18,9 +18,3 @@ O objetivo desta aula é discutir questões associadas a consumo de memória por
 
 - [LeakCanary](https://square.github.io/leakcanary/)
 - _Material adicional..._
-
-### Characterizing and detecting resource leaks in android applications
-**Miriane Nascimento (@mirianes)**
-
-- Chaorong Guo, Jian Zhang, Jun Yan, Zhiqiang Zhang, and Yanli Zhang. 2013. **[Characterizing and detecting resource leaks in android applications](https://doi.org/10.1109/ASE.2013.6693097)**. In _Proceedings of the 28th IEEE/ACM International Conference on Automated Software Engineering (ASE'13)_. IEEE Press, Piscataway, NJ, USA, 389-398. DOI: [https://doi.org/10.1109/ASE.2013.6693097](https://doi.org/10.1109/ASE.2013.6693097)
-- _Material adicional..._

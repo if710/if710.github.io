@@ -20,11 +20,5 @@ O objetivo desta aula é discutir questões associadas a construção e execuç�
 ### To the attention of mobile software developers: guess what, test your app!
 **Rafael Alves (@rafaelmotaalves) & Heitor Carvalho (@heitorado)**
 
-Luis Cruz, Rui Abreu, and David Lo. 2019. To the attention of mobile software developers: guess what, test your app!. Empirical Softw. Engg. 24, 4 (August 2019), 2438-2468. DOI: https://doi.org/10.1007/s10664-019-09701-0
-
 - Luis Cruz, Rui Abreu, and David Lo. **[To the attention of mobile software developers: guess what, test your app!](https://doi.org/10.1007/s10664-019-09701-0)** *Empirical Software Engineering* Volume 24, Issue 4 (August 2019), pp 2438–2468. [https://doi.org/10.1007/s10664-019-09701-0](https://doi.org/10.1007/s10664-019-09701-0)
 - _Material Adicional..._
-
-### Pendente de definição de tema
-
-- Arnaldo Morais (@arma29)

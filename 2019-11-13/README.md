@@ -12,6 +12,12 @@ O objetivo desta aula é discutir questões associadas a _cross-platform develop
 - [React Native](https://facebook.github.io/react-native/)
 - _Material adicional..._
 
+### Flutter (https://flutter.dev)
+**Miriane Nascimento (@mirianes)**
+
+- [Flutter](https://flutter.dev)
+- _Material adicional..._
+
 ### A tale of two fashions: An empirical study on the performance of native apps and web apps on Android
 **Iúri Teles (@iuribtt)**
 

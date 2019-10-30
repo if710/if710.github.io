@@ -25,6 +25,8 @@ O objetivo desta aula é discutir questões associadas a privacidade e seguranç
 - Felix Pauck, Eric Bodden, and Heike Wehrheim. 2018. [**Do Android taint analysis tools keep their promises?**](https://doi.org/10.1145/3236024.3236029). In *Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018)*. ACM, New York, NY, USA, 331-341. DOI: https://doi.org/10.1145/3236024.3236029
 - _Material adicional..._
 
-### Pendentes de definição de tema
+### SoK: Lessons Learned From Android Security Research For Appified Software Platforms
+**Valdemiro Santos (@vrvs) &  Rodrigo Oliveira (@rllima)**
 
-- Valdemiro Santos (@vrvs) &  Rodrigo Oliveira (@rllima)
+- Yasemin Acar, Michael Backes, Sven Bugiel, Sascha Fahl, Patrick McDaniel, Matthew Smith. [**SoK: Lessons Learned From Android Security Research For Appified Software Platforms**](https://oaklandsok.github.io/papers/acar2016.pdf). In *Proceedings of the IEEE Symposium on Security and Privacy (Oakland 2016)*, San Jose, CA, 2016, pp. 433-451. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546516&isnumber=7546461
+- _Material adicional..._
