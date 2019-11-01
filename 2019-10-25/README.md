@@ -16,7 +16,7 @@ O objetivo desta aula é discutir questões associadas a consumo de energia por 
 **José Raphael dos Santos (@stepnus) & Ismael Júnior (@ismaeljunior)**
 
  - Shaiful Chowdhury, Silvia Di Nardo, Abram Hindle, and Zhen Ming Jiang. **[An exploratory study on assessing the energy impact of logging on Android applications](https://doi.org/10.1007/s10664-017-9545-x)**. *Empirical Software Engineering* Volume 23, Issue 3 (June 2018), pp 1422-1456. DOI: [https://doi.org/10.1007/s10664-017-9545-x](https://doi.org/10.1007/s10664-017-9545-x)
-- _Material adicional..._
+- Slides ([pdf](logging.pdf))
 
 ### ServDroid: detecting service usage inefficiencies in Android applications
 **Douglas Lins (@DouglasSL) & Jônatas Clementino (@JonatasDeOliveira)**
