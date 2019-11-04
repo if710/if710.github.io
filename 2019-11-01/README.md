@@ -13,7 +13,7 @@ O objetivo desta aula é discutir questões associadas a consumo de rede por mei
 - _Material adicional..._
 
 ### OkHttp e Retrofit 
-**Lucas Santana (@luucasv) Adilson Junior (@AdilsonAngelo)**
+**Lucas Santana (@luucasv) & Adilson Junior (@AdilsonAngelo)**
 
 - [OkHttp](https://square.github.io/okhttp/)
 - [Retrofit](https://square.github.io/retrofit/)
