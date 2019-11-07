@@ -17,13 +17,13 @@ O objetivo desta aula é discutir questões associadas a consumo de rede por mei
 
 - [OkHttp](https://square.github.io/okhttp/)
 - [Retrofit](https://square.github.io/retrofit/)
-- _Material adicional..._
+- [Slides (pdf)](OkHttp-Retrofit.pdf)
 
 ### Fast Android Networking
 **Victor Nicéas (@vdcn1) & Lucas Cabral (@LucasCCabral)**
 
 - [Fast Android Networking](https://amitshekhar.me/Fast-Android-Networking/)
-- _Material adicional..._
+- [Slides (pdf)](FastAndroidNetworking.pdf)
 
 ### Automated energy optimization of HTTP requests for mobile applications
 **Jailson Gomes	(@jailjr) & João Amaro (@joaoaab)**
