@@ -23,7 +23,7 @@ O objetivo desta aula é discutir questões associadas a acessibilidade em dispo
 **José Murilo Mota (@jmsmf) & Bruno Barbosa (@tbbruno)**
 
 - Mohammad Naseri, Nataniel P. Borges Jr., Andreas Zeller, Romain Rouvoy. [**AccessiLeaks: Investigating Privacy Leaks Exposed by the Android Accessibility Service**](https://hal.inria.fr/hal-01929049). *PETS 2019 - The 19th Privacy Enhancing Technologies Symposium*, July 2019, Stockholm, Sweden, 291-305. https://hal.inria.fr/hal-01929049
-- _Material adicional..._
+- [Slides (pdf)](accessileaks.pdf)
 
 ### Automated Accessibility Testing of Mobile Apps
 **Guilherme Lima (@Gui-Lima) & Marina Barros (@marina-barros)**

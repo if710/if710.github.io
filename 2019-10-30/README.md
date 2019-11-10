@@ -9,7 +9,7 @@ O objetivo desta aula é discutir questões associadas a construção e execuç�
 ### CI mobile, motivações, desafios e soluções
 **Ramon Saboya (@ramonsaboya) & João Filipe (@jfmrm)**
 
-- Slides ([pdf](#))
+- Slides ([pdf](ci-mobile.pdf))
 
 ### How do Developers Test Android Applications?
 **Tancredo Souza (@tancredosouza) &  Diogo Rodrigues (@dordiogo)**
