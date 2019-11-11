@@ -29,4 +29,4 @@ O objetivo desta aula é discutir questões associadas a acessibilidade em dispo
 **Guilherme Lima (@Gui-Lima) & Marina Barros (@marina-barros)**
 
 - Marcelo Eler, José Miguel Rojas, Yan Ge and Gordon Fraser, [**Automated Accessibility Testing of Mobile Apps**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8367041&isnumber=8367020). *IEEE 11th International Conference on Software Testing, Verification and Validation (ICST)*, Vasteras, 2018, pp. 116-126. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8367041&isnumber=8367020
-- _Material adicional..._
+- [Slides (pdf)](MATE.pdf)
