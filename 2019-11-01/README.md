@@ -11,6 +11,7 @@ O objetivo desta aula é discutir questões associadas a consumo de rede por mei
 
 - [Network Profiler](https://developer.android.com/studio/profile/network-profiler)
 - [Slides (pdf)](network-patterns.pdf)
+- [Código](https://github.com/akai16/NetworkUsage)
 
 ### OkHttp e Retrofit 
 **Lucas Santana (@luucasv) & Adilson Junior (@AdilsonAngelo)**
