@@ -17,7 +17,7 @@ O objetivo desta aula é discutir questões associadas a privacidade e seguranç
 **Lucas Lin (@cubsphere) & Henrique Mariz (@riqgod)**
 
 - René Mayrhofer, Jeffrey Vander Stoep, Chad Brubaker, Nick Kralevich. [**The Android Platform Security Model**](https://arxiv.org/abs/1904.05572). *arXiv preprint* arXiv:1904.05572.
-- _Material adicional..._
+- Slides ([pdf](android-platform-security-model.pdf)) ([google slides](https://docs.google.com/presentation/d/1f1RQXUcS4HttAzzBAYwsrY9UQmiG-MofEaC3wWmOqiM/edit?usp=sharing))
 
 ### Do Android taint analysis tools keep their promises?
 **Luca da Silva (@lams3) & André Silveira (@adecarli)**
