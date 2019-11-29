@@ -57,6 +57,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 * Seminários em sala de aula (30%)
   * Apresentação e discussão de temas relacionados a desenvolvimento móvel
 * Projeto (50%)
+  * [Equipes](projetos.md)
+  * [Especificação da Entrega](Projeto-02-Entrega.md)
   * A nota do projeto compreende não apenas a qualidade do resultado final, mas também acompanhamentos, respeito a prazos e datas de entrega, etc. 
   
 - Observações:
@@ -110,4 +112,5 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 33 | 29.11.19 (sex) | Acompanhar projeto | --- |
 | 34 | 04.12.19 (qua) | Acompanhar projeto | --- |
 | 35 | 06.12.19 (sex) | Acompanhar projeto | --- |
-| 36 | 11.12.19 (qua) | **Entrega do Projeto**  | --- |
+| 36 | 11.12.19 (qua) | Acompanhar projeto (**apenas via Slack**)  | --- |
+| 37 | 13.12.19 (sex) | **Limite para Entrega do Projeto**  | [Especificação da Entrega](Projeto-02-Entrega.md) |

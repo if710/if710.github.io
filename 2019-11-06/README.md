@@ -11,7 +11,7 @@ O objetivo desta aula é discutir questões associadas a privacidade e seguranç
 
 - [App Security Best Practices](https://developer.android.com/topic/security/best-practices) 
 - [Android Security Best Practices](https://source.android.com/security/best-practices)
-- _Material adicional..._
+- [Código](https://github.com/mbs8/android-security-best-practices)
 
 ### The Android Platform Security Model
 **Lucas Lin (@cubsphere) & Henrique Mariz (@riqgod)**
@@ -29,4 +29,4 @@ O objetivo desta aula é discutir questões associadas a privacidade e seguranç
 **Valdemiro Santos (@vrvs) &  Rodrigo Oliveira (@rllima)**
 
 - Yasemin Acar, Michael Backes, Sven Bugiel, Sascha Fahl, Patrick McDaniel, Matthew Smith. [**SoK: Lessons Learned From Android Security Research For Appified Software Platforms**](https://oaklandsok.github.io/papers/acar2016.pdf). In *Proceedings of the IEEE Symposium on Security and Privacy (Oakland 2016)*, San Jose, CA, 2016, pp. 433-451. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546516&isnumber=7546461
-- _Material adicional..._
+- Slides ([pdf](sok-lessons-learned.pdf))
