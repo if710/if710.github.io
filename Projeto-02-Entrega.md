@@ -10,7 +10,7 @@ no mesmo.
 
 *Segue o conjunto mínimo de tarefas esperadas como resultado do projeto, além da implementação:* 
 
-1.  Use o [Android Profiler](https://developer.android.com/studio/test/index.html), disponível em Android Studio para avaliar a implementação do seu app, com relação a desempenho, memória, uso de rede, e bateria.
+1.  Use o [Android Profiler](https://developer.android.com/studio/profile/android-profiler), disponível em Android Studio para avaliar a implementação do seu app, com relação a desempenho, memória, uso de rede, e bateria.
 2.  Além do Android Profiler, use também outras ferramentas para avaliar os tópicos listados, como [LeakCanary](https://github.com/square/leakcanary), [AndroidDevMetrics](https://github.com/frogermcs/androiddevmetrics), entre outros. 
 3.  Apresente, para cada um dos tópicos discutidos em sala, exemplos de boas práticas que foram adotadas no desenvolvimento do seu app, ilustradas com trechos de código da sua implementação. Especifique se o código foi alterado com base na avaliação feita por meio do Android Profiler.
 
