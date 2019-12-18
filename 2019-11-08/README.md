@@ -10,7 +10,7 @@ O objetivo desta aula é discutir questões associadas a acessibilidade em dispo
 **Michael Júnior (@michaelbarney)**
 
 - [Accessibility overview](https://developer.android.com/guide/topics/ui/accessibility)
-- _Material adicional..._
+- [AccessibilityExamples](https://github.com/MichaelBarney/AccessibilityExamples)
 
 ### [accessibilitools](https://github.com/novoda/accessibilitools) & [Axe Android](https://github.com/dequelabs/axe-android)
 **Lavinia Paganini (@lfp2)**
